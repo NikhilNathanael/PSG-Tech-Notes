@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "vimMode": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
