@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dedb222547a82fef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Project Work/Week 2.md",
+                "file": "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +124,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3fae4c4b3bd1553a",
+  "active": "dedb222547a82fef",
   "lastOpenFiles": [
-    "Semester 7/Supply Chain Management/Logistics Network.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Semester 7/Project Work/Week 2.md",
+    "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
+    "Excalidraw",
+    "Semester 7/Supply Chain Management/Logistics Network.md",
     "Semester 7/Project Work",
     "Semester 7/Supply Chain Management/Hello this is a new file.md",
     "Semester 7/Intellectual Property Rights/Introduction.md",
