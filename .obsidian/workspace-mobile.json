@@ -11,15 +11,24 @@
             "id": "69e8665cf2668c50",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "462553b3d47c8600",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Hello this is a new file.md",
+                "file": "Semester 7/Intellectual Property Rights/Introduction.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Supply Chain Management/Hello this is a new file.md",
+            "file": "Semester 7/Intellectual Property Rights/Introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,8 +107,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69e8665cf2668c50",
+  "active": "462553b3d47c8600",
   "lastOpenFiles": [
+    "Semester 7/Intellectual Property Rights/Introduction.md",
+    "Semester 7/Intellectual Property Rights",
+    "Semester 7/Supply Chain Management/Hello this is a new file.md",
     "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
     "Semester 4/Euler's Energy Equations.md",
     "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md",
