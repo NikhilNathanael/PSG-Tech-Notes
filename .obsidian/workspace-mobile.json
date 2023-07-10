@@ -26,9 +26,31 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f50dbfd95f5a421d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 7/Finite Element Analysis/Untitled.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e7460c19c6e6c50",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Intellectual Property Rights/Introduction.md",
+            "file": "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,9 +129,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462553b3d47c8600",
+  "active": "7e7460c19c6e6c50",
   "lastOpenFiles": [
+    "Semester 7/Finite Element Analysis/Untitled.md",
+    "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
     "Semester 7/Intellectual Property Rights/Introduction.md",
+    "Semester 7/Finite Element Analysis/Untitled",
+    "Semester 7/Finite Element Analysis",
     "Semester 7/Intellectual Property Rights",
     "Semester 7/Supply Chain Management/Hello this is a new file.md",
     "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
