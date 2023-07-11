@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b923e3ebf2e65e1d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +148,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "73031ff6014447b9",
+  "active": "b923e3ebf2e65e1d",
   "lastOpenFiles": [
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems",
     "Semester 7/Supply Chain Management/Problems/Network Reconfiguration Problems/Problem 1.md",
     "Semester 7/Supply Chain Management/Problems/Network Reconfiguration Problems",
@@ -177,7 +188,6 @@
     "Semester 1/Chemistry/Thermodynamics.md",
     "Semester 1/Chemistry/Syllabus.md",
     "Semester 4/Basics of EEE/Armature Current/Untitled.md",
-    "Semester 4/Euler's Energy Equations.md",
-    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md"
+    "Semester 4/Euler's Energy Equations.md"
   ]
 }
