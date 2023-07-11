@@ -39,7 +39,7 @@
               "state": {
                 "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -140,6 +140,8 @@
   },
   "active": "73031ff6014447b9",
   "lastOpenFiles": [
+    "Problems/Problem 1.md",
+    "Problems",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
@@ -173,11 +175,9 @@
     "Semester 1/Chemistry",
     "Semester 1",
     "Semester 4/Basics of EEE/Armature Current/Untitled.md",
-    "Semester 7/Supply Chain Management",
     "Semester 4/Euler's Energy Equations.md",
     "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md",
     "Thermal Engineering/Carbourettor.md",
-    "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md",
-    "Semester 4/Basics of EEE/DC Motors (Index).md"
+    "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md"
   ]
 }

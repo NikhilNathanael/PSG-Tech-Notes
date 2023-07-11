@@ -14,8 +14,11 @@ Estimating warehouse costs is fairly easy while estimating the other tow costs v
 The amount of space needed by a warehouse needs to account for its peak inventory
 
 ## Typical Network Design Model
-### A Typical Location Model
-- Ther
- 
+### Solution Techniques
+- Mathematical optimization techniques
+	1. Heuristics :Find "Good" Solutions, not necessarily optimal
+	2. Exact Algorithms : Find optimal solutions
+- Simulation models 
+[[./Semester 7/Supply Chain Management/Problems/Netwro]] 
 
 
