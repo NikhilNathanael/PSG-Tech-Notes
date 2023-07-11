@@ -9,4 +9,4 @@
 - Major sourcing Decisions
 - Typical planning horizon is a few years 
 
-#### Network Model Terminology
+
