@@ -1,1 +1,0 @@
-![[Untitled 2023-07-10 10.23.20.excalidraw]]

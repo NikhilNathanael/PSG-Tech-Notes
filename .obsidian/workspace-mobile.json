@@ -84,7 +84,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,12 +107,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462553b3d47c8600",
+  "active": "a960f9cabad42268",
   "lastOpenFiles": [
+    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
+    "conflict-files-obsidian-git.md",
     "Semester 7/Supply Chain Management/Logistics Network.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "/Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
@@ -147,7 +147,6 @@
     "Semester 7/Supply Chain Management/Hello this is a new file.md",
     "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
     "Semester 4/Euler's Energy Equations.md",
-    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md",
-    "Thermal Engineering/Carbourettor.md"
+    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md"
   ]
 }
