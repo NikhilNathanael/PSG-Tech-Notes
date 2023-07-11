@@ -33,6 +33,8 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
     "editor:toggle-source",
-    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "editor:move-caret-up",
+    "editor:move-caret-down"
   ]
 }

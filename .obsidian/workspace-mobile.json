@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -84,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,11 +108,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a960f9cabad42268",
+  "active": "462553b3d47c8600",
   "lastOpenFiles": [
-    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
-    "conflict-files-obsidian-git.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.08.20.excalidraw.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Logistics Network.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems",
+    "conflict-files-obsidian-git.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
@@ -134,19 +144,12 @@
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Excalidraw/Scripts/Downloaded",
-    "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
-    "Semester 7/Intellectual Property Rights/Introduction.md",
     "Semester 7/Finite Element Analysis/Screenshot_20230427_192717_YouTube.jpg",
     "Semester 7/Finite Element Analysis/Untitled",
     "Semester 7/Finite Element Analysis",
-    "Semester 7/Intellectual Property Rights",
-    "Semester 7/Supply Chain Management/Hello this is a new file.md",
-    "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
-    "Semester 4/Euler's Energy Equations.md",
-    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md"
+    "Semester 7/Intellectual Property Rights"
   ]
 }
