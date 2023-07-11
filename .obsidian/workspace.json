@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +140,17 @@
   },
   "active": "73031ff6014447b9",
   "lastOpenFiles": [
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems",
+    "Semester 7/Supply Chain Management/Problems/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Problems/Network Reconfiguration Problems",
+    "Semester 7/Supply Chain Management/Problems",
     "Problems/Problem 1.md",
     "Problems",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
     "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
@@ -166,18 +171,13 @@
     "Excalidraw",
     "Semester 7/Project Work",
     "Semester 7/Supply Chain Management/Hello this is a new file.md",
-    "Semester 7/Intellectual Property Rights",
     "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations 2023-07-08 22.08.47.excalidraw.md",
     "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations.md",
     "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
     "Semester 1/Chemistry/Thermodynamics.md",
     "Semester 1/Chemistry/Syllabus.md",
-    "Semester 1/Chemistry",
-    "Semester 1",
     "Semester 4/Basics of EEE/Armature Current/Untitled.md",
     "Semester 4/Euler's Energy Equations.md",
-    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md",
-    "Thermal Engineering/Carbourettor.md",
-    "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md"
+    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md"
   ]
 }

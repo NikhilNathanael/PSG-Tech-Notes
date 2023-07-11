@@ -19,6 +19,6 @@ The amount of space needed by a warehouse needs to account for its peak inventor
 	1. Heuristics :Find "Good" Solutions, not necessarily optimal
 	2. Exact Algorithms : Find optimal solutions
 - Simulation models 
-[[./Semester 7/Supply Chain Management/Problems/Netwro]] 
+[[./Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md]] 
 
 
