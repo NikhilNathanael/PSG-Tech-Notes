@@ -13,5 +13,9 @@ Estimating warehouse costs is fairly easy while estimating the other tow costs v
 
 The amount of space needed by a warehouse needs to account for its peak inventory
 
+## Typical Network Design Model
+### A Typical Location Model
+- Ther
+ 
 
 
