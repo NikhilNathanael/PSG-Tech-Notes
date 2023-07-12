@@ -11,11 +11,9 @@
             "id": "73031ff6014447b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,13 +105,20 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a3e844f94329fb0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,16 +132,18 @@
   },
   "active": "73031ff6014447b9",
   "lastOpenFiles": [
-    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Project Work/Week 2.md",
+    "Semester 7/Intellectual Property Rights/Introduction.md",
     "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
     "conflict-files-obsidian-git.md",
     "New Text Document.txt",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments",
     "Semester 7/Refrigeration and Air Conditioning",
@@ -156,11 +163,9 @@
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Semester 7/Supply Chain Management/Logistics Network.md",
-    "Semester 7/Intellectual Property Rights/Introduction.md",
     "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
     "Semester 7/Finite Element Analysis/Untitled.md",
     "Semester 7/Finite Element Analysis",
-    "Semester 7/Project Work/Week 2.md",
     "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
