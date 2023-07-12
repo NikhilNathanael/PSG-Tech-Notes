@@ -1,13 +1,13 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "showLineNumber": true,
   "showFrontmatter": true,
   "spellcheck": true,
   "vimMode": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./Attachments",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
@@ -30,9 +30,15 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:toggle-keyboard",
-    "editor:configure-toolbar",
     "editor:toggle-source",
-    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
-  ]
+    "editor:move-caret-down",
+    "editor:move-caret-up",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "editor:open-link-in-new-window",
+    "editor:configure-toolbar"
+  ],
+  "trashOption": "local",
+  "tabSize": 2,
+  "useTab": false,
+  "rightToLeft": false
 }

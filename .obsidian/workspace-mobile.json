@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "462553b3d47c8600",
+            "id": "b14123b0b7b55949",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "65dbf264f3b742fc",
+            "id": "b0e8a4a58a244da8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,8 +28,31 @@
                 "file": "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "972b6ed1286df17d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "471ad79fa48c8a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +77,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#SupplyChainManagementProblems",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -70,9 +93,21 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "0dbb6b41656fafd2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "584863c9b3a1430d",
@@ -84,6 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,8 +130,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -104,49 +139,53 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templates:Insert template": false
     }
   },
-  "active": "a960f9cabad42268",
+  "active": "b0e8a4a58a244da8",
   "lastOpenFiles": [
-    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
-    "conflict-files-obsidian-git.md",
-    "Semester 7/Supply Chain Management/Logistics Network.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
+    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "Semester 7/Supply Chain Management/Logistics Network.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 2.excalidraw.md",
+    "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations 2023-07-08 22.08.47.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+    "Semester 7/Finite Element Analysis/Attachments",
+    "Excalidraw/Drawing 2023-07-12 11.36.01.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments",
+    "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md",
+    "Semester 4/Euler's Energy Equations.md",
+    "Semester 7/Intellectual Property Rights/Introduction.md",
+    "Untitled.canvas",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.08.20.excalidraw.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems",
+    "/Semester 7/Supply Chain Management/Network Reconfiguration Problems",
+    "conflict-files-obsidian-git.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration.md",
     "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "/Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
-    "/Semester 7/Supply Chain Management/Network Reconfiguration.md",
-    "/Semester 7/Supply Chain Management/Logistics Network.md",
     "/Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "/Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Semester 7/Project Work/Week 2.md",
-    "/Semester 7/Project Work/Week 2.md",
     "Semester 7/Project Work",
     "/Semester 7/Project Work",
-    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
-    "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
-    "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix 2023-07-10 11.04.10.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Drawing 2023-07-10 11.09.15.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix 2023-07-10 11.03.45.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Excalidraw/Scripts/Downloaded",
-    "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
-    "Semester 7/Intellectual Property Rights/Introduction.md",
-    "Semester 7/Finite Element Analysis/Screenshot_20230427_192717_YouTube.jpg",
-    "Semester 7/Finite Element Analysis/Untitled",
-    "Semester 7/Finite Element Analysis",
-    "Semester 7/Intellectual Property Rights",
-    "Semester 7/Supply Chain Management/Hello this is a new file.md",
-    "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
-    "Semester 4/Euler's Energy Equations.md",
-    "Semester 4/Thermal Engineering/Spark ignition and Compression ignition engines.md"
+    "Semester 7/Finite Element Analysis/Screenshot_20230427_192717_YouTube.jpg"
   ]
 }
