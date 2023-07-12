@@ -11,11 +11,19 @@
             "id": "b14123b0b7b55949",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Semester 4/Euler's Energy Equations.md",
-                "mode": "source",
-                "source": true
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2a427197b62c2030",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md"
               }
             }
           }
@@ -62,7 +70,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "584863c9b3a1430d",
@@ -74,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 4/Euler's Energy Equations.md",
+            "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,18 +110,24 @@
   },
   "active": "b14123b0b7b55949",
   "lastOpenFiles": [
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
-    "Untitled.canvas",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 3.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 4.excalidraw.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments",
+    "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md",
+    "Semester 4/Euler's Energy Equations.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Logistics Network.md",
+    "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
+    "Semester 7/Intellectual Property Rights/Introduction.md",
+    "Untitled.canvas",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 4.excalidraw.md",
     "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.08.20.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
-    "Semester 7/Supply Chain Management/Logistics Network.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
@@ -128,19 +143,14 @@
     "/Semester 7/Supply Chain Management/Network Reconfiguration.md",
     "/Semester 7/Supply Chain Management/Logistics Network.md",
     "/Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "/Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Semester 7/Project Work/Week 2.md",
-    "/Semester 7/Project Work/Week 2.md",
     "Semester 7/Project Work",
     "/Semester 7/Project Work",
-    "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Excalidraw/Scripts/Downloaded",
     "Semester 7/Finite Element Analysis/Screenshot_20230427_192717_YouTube.jpg",
-    "Semester 7/Finite Element Analysis/Untitled",
-    "Semester 7/Finite Element Analysis"
+    "Semester 7/Finite Element Analysis/Untitled"
   ]
 }
