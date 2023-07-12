@@ -11,6 +11,18 @@
             "id": "b14123b0b7b55949",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0e8a4a58a244da8",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md"
@@ -18,7 +30,17 @@
             }
           },
           {
-            "id": "2a427197b62c2030",
+            "id": "972b6ed1286df17d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "471ad79fa48c8a54",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -27,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+            "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,12 +131,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "b14123b0b7b55949",
+  "active": "471ad79fa48c8a54",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-12 11.36.01.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments",
     "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md",
     "Semester 4/Euler's Energy Equations.md",
@@ -141,7 +165,6 @@
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "/Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration.md",
-    "/Semester 7/Supply Chain Management/Logistics Network.md",
     "/Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Semester 7/Project Work",
     "/Semester 7/Project Work",
