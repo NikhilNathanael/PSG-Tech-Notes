@@ -1,0 +1,4 @@
+.obsidian*
+*.swp
+conflict-files-obsidian-git.md
+.obsidian/workspace.json
