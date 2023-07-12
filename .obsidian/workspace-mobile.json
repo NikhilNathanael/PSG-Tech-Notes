@@ -27,10 +27,64 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "fe2a7261e1a6a3b4"
           },
           {
-            "id": "86e94c5fa559b102",
+            "id": "bf61ea42ab2f084b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 2023-07-12 10.59.25.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f9f748d992b75a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "529ac69f33d690bb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "fe2a7261e1a6a3b4"
+          },
+          {
+            "id": "c1312a4fd46a0337",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -38,19 +92,9 @@
                 "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "65dbf264f3b742fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,11 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86e94c5fa559b102",
+  "active": "c1312a4fd46a0337",
   "lastOpenFiles": [
-    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 2023-07-12 10.59.25.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Refrigeration and Air Conditioning",
@@ -163,7 +208,6 @@
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix 2023-07-10 11.04.10.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Drawing 2023-07-10 11.09.15.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts",
