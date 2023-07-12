@@ -11,11 +11,9 @@
             "id": "462553b3d47c8600",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md"
               }
             }
           },
@@ -37,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 2023-07-12 10.41.25.excalidraw.md"
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md"
               }
             }
           },
@@ -77,7 +75,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#SupplyChainManagementPro",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -107,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 2023-07-12 10.41.25.excalidraw.md",
+            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,14 +131,15 @@
   },
   "active": "86e94c5fa559b102",
   "lastOpenFiles": [
+    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 2023-07-12 10.41.25.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Refrigeration and Air Conditioning",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.08.20.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Logistics Network.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "/Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
@@ -161,7 +160,6 @@
     "/Semester 7/Project Work/Week 2.md",
     "Semester 7/Project Work",
     "/Semester 7/Project Work",
-    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix 2023-07-10 11.04.10.excalidraw.md",
