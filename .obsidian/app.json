@@ -1,13 +1,13 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "showLineNumber": true,
   "showFrontmatter": true,
   "spellcheck": true,
   "vimMode": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./Attachments",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
@@ -36,5 +36,6 @@
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
     "editor:open-link-in-new-window",
     "editor:configure-toolbar"
-  ]
+  ],
+  "trashOption": "local"
 }
