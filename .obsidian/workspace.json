@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7e4ab7c55af94cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "783225000a22f3d6",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +146,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73031ff6014447b9",
+  "active": "7e4ab7c55af94cd5",
   "lastOpenFiles": [
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+    "conflict-files-obsidian-git.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 2023-07-12 22.59.21.excalidraw.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
     "Attachments/Tutorial 1 Problem 3.md",
     "Attachments",
     "Semester 7/Refrigeration and Air Conditioning/Problem 3.md",
@@ -151,7 +165,6 @@
     "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
-    "conflict-files-obsidian-git.md",
     "New Text Document.txt",
     "Semester 7/Refrigeration and Air Conditioning/Attachments",
     "Semester 7/Refrigeration and Air Conditioning",
