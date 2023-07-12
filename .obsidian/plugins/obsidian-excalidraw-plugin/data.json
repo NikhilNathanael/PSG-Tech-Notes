@@ -33,7 +33,7 @@
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
-  "parseTODO": false,
+  "parseTODO": true,
   "todo": "☐",
   "done": "🗹",
   "hoverPreviewWithoutCTRL": false,
@@ -403,7 +403,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 5,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,

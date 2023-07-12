@@ -16,21 +16,8 @@
                 "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "bf61ea42ab2f084b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +42,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RefrigerationAndAirConditioning",
+            "query": ".trash",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +60,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "584863c9b3a1430d",
@@ -85,7 +72,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,12 +97,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "bf61ea42ab2f084b",
+  "active": "c0ea2c8c1757417d",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 4.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
@@ -144,7 +132,6 @@
     "Semester 7/Project Work",
     "/Semester 7/Project Work",
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
-    "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts",
