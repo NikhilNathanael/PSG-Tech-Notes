@@ -31,8 +31,8 @@
     "editor:undo",
     "editor:redo",
     "editor:toggle-source",
-    "editor:move-caret-up",
     "editor:move-caret-down",
+    "editor:move-caret-up",
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
     "editor:open-link-in-new-window",
     "editor:configure-toolbar"
