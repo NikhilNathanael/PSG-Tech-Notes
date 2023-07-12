@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": ".trash",
+            "query": "tag:#SupplyChainManagementProblems",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+            "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,21 +142,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "b14123b0b7b55949",
+  "active": "c0ea2c8c1757417d",
   "lastOpenFiles": [
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 2.excalidraw.md",
+    "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations 2023-07-08 22.08.47.excalidraw.md",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
-    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/Attachments",
-    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 2.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Logistics Network.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
-    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
     "Excalidraw/Drawing 2023-07-12 11.36.01.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments",
     "Semester 4/Thermal Engineering/Difference between 4-stroke and 2 stroke engines.md",
