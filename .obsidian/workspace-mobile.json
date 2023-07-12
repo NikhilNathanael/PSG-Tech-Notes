@@ -43,9 +43,11 @@
             "id": "471ad79fa48c8a54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md"
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,8 +135,8 @@
   },
   "active": "471ad79fa48c8a54",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-12 11.36.01.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-12 11.36.01.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
