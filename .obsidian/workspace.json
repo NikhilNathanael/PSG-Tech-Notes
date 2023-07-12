@@ -11,9 +11,11 @@
             "id": "73031ff6014447b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 2023-07-12 22.59.21.excalidraw.md"
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 2023-07-12 22.59.21.excalidraw.md",
+                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +135,8 @@
   },
   "active": "73031ff6014447b9",
   "lastOpenFiles": [
-    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 2023-07-12 22.59.21.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.md",
