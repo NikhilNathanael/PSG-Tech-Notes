@@ -37,5 +37,8 @@
     "editor:open-link-in-new-window",
     "editor:configure-toolbar"
   ],
-  "trashOption": "local"
+  "trashOption": "local",
+  "tabSize": 2,
+  "useTab": false,
+  "rightToLeft": false
 }
