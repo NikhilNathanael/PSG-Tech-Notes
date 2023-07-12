@@ -11,9 +11,11 @@
             "id": "b14123b0b7b55949",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md"
+                "file": "Semester 4/Euler's Energy Equations.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -72,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
+            "file": "Semester 4/Euler's Energy Equations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,11 +99,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "c0ea2c8c1757417d",
+  "active": "b14123b0b7b55949",
   "lastOpenFiles": [
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
     "Untitled.canvas",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
-    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 2.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 3.excalidraw.md",
     "Semester 7/Refrigeration and Air Conditioning/Tutorial 1 Problem 4.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
