@@ -30,11 +30,11 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:toggle-keyboard",
-    "editor:configure-toolbar",
     "editor:toggle-source",
-    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
     "editor:move-caret-up",
-    "editor:move-caret-down"
+    "editor:move-caret-down",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "editor:open-link-in-new-window",
+    "editor:configure-toolbar"
   ]
 }
