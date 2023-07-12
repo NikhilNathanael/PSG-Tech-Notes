@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+                "file": "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+                "file": "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,20 @@
   },
   "active": "73031ff6014447b9",
   "lastOpenFiles": [
-    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1.md",
+    "conflict-files-obsidian-git.md",
+    "New Text Document.txt",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 4.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 3.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments/Tutorial 1 Problem 2.excalidraw.md",
+    "Semester 7/Refrigeration and Air Conditioning/Tutorial 1.md",
+    "Semester 7/Refrigeration and Air Conditioning/Attachments",
+    "Semester 7/Refrigeration and Air Conditioning",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 2.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments/DERIVATION PART 1.excalidraw.md",
+    "Semester 7/Finite Element Analysis/Attachments",
+    "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Problem 1 2023-07-11 10.04.18.excalidraw.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems/Network Reconfiguration.md",
     "Semester 7/Supply Chain Management/Network Reconfiguration Problems",
     "Semester 7/Supply Chain Management/Problems/Network Reconfiguration Problems/Problem 1.md",
@@ -162,12 +174,10 @@
     "Semester 7/Finite Element Analysis/Derivation of Strain-Displacement Matrix.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 1.excalidraw.md",
     "Semester 7/Finite Element Analysis/DERIVATION PART 2.excalidraw.md",
-    "Semester 7/Finite Element Analysis/Problem 1.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "New Text Document.txt",
     "Semester 7/Supply Chain Management/Logistics Network.md",
     "Semester 7/Intellectual Property Rights/Introduction.md",
     "Semester 7/Finite Element Analysis/Untitled 2023-07-10 10.23.20.excalidraw.md",
@@ -177,17 +187,6 @@
     "Excalidraw/Drawing 2023-07-10 13.36.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Semester 7/Project Work",
-    "Semester 7/Supply Chain Management/Hello this is a new file.md",
-    "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations 2023-07-08 22.08.47.excalidraw.md",
-    "Semester 4/Fluid Mechanics/Differential Momentum and Navier-Stokes Equations.md",
-    "Semester 4/Basics of EEE/Armature Current/Series Motor.md",
-    "Semester 1/Chemistry/Thermodynamics.md",
-    "Semester 1/Chemistry/Syllabus.md",
-    "Semester 4/Basics of EEE/Armature Current/Untitled.md",
-    "Semester 4/Euler's Energy Equations.md"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
