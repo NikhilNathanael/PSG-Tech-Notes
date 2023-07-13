@@ -1,4 +1,6 @@
-#SupplyChainManagement #Index
+---
+tags : Index, SupplyChainManagement
+---
 
 # Notes
 [[Logistics Network]]
