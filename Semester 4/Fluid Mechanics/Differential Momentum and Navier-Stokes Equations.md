@@ -13,5 +13,3 @@ $$
 $$\begin{align*}
 dF_s&=((σ_xx+(δσ_xx)/δx  dx/2)dy dz−(σ_xx  (δσ_xx)/δx  dx/2)dy dz)\\&+((τ_yx+(δτ_yx)/δy  dy/2)dx dz−(τ_yx−(δτ_yx)/δy  dy/2)dx dz)\\&+((τ_zx+(δτ_yx)/δz  dz/2)dx dy−(τ_zx−(δτ_zx)/δy  dz/2)dx dy)
 \end{align*}$$
-
-![[Differential Momentum and Navier-Stokes Equations 2023-07-08 22.08.47.excalidraw]]
