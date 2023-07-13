@@ -17,7 +17,7 @@ In a standard vapor compression cycle using refrigerant 22 the evaporating tempe
   d. The COP
 
 
-
+![[Attachments/Problem 3.pdf|Problem 3]]
 
 ##### Problem 3 
 
