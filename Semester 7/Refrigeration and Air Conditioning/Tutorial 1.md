@@ -1,6 +1,5 @@
 #RefrigerationAndAirConditioning #Tutorial1 
 
-[[0 Refrigeration and Air Conditioning Index]]
 ##### Problem 2
 A Carnot refrigeration cycle absorbs heat at $-12\degree C$ and rejects heat at $40\degree C$ 
   a. Calculate the COP of this refrigeration cycle
