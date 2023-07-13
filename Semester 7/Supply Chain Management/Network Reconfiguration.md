@@ -32,7 +32,7 @@ Find the best way to distribute the goods
 |$W_1$|0|4|3|4|5|
 |$W_2$|5|2|2|1|2|
 
-![[Attachments/Problem 1 2023-07-11 10.04.18.excalidraw]]
+![[Attachments/Network Problem Example.excalidraw]]
 
 ### Network Diagram
-![[Attachments/Network Reconfiguration 2023-07-13 11.08.34.excalidraw]]
+![[Attachments/Formulating LPPs.excalidraw]]

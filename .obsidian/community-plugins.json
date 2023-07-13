@@ -1,5 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-vimrc-support",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "settings-search",
+  "tag-wrangler",
+  "supercharged-links-obsidian"
 ]

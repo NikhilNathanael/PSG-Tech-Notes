@@ -3,7 +3,7 @@
   "livePreview": false,
   "promptDelete": true,
   "showLineNumber": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "spellcheck": true,
   "vimMode": true,
   "newLinkFormat": "relative",
