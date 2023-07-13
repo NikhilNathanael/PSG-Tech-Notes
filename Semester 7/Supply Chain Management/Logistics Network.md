@@ -1,3 +1,4 @@
+[[0 Supply Chain Index|Index]]
 ## Why is Network Planning needed?
 - To find the right balance between inventory, transportation, and manufacturing costs
 - Match Supply and demand under uncertainty by positioning and managing inventory effectively

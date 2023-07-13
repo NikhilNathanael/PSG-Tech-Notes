@@ -1,3 +1,4 @@
+[[0 Finite Element Analysis Index]]
 Displacement Function 
 $$U=N_1 q_1 + N_2 q_2 + N_3 q_3$$ 
 
