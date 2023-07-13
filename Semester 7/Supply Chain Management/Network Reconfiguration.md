@@ -1,5 +1,5 @@
 #SupplyChainManagement 
-[[0 Refrigeration and Air Conditioning Index]]
+[[0 Supply Chain Index]]
 ### Warehousing Costs
 - Handling Costs
 	- Labor and utility costs

@@ -1,4 +1,4 @@
-#Semester7 #RefrigerationAndAirConditioning #Index 
+#RefrigerationAndAirConditioning #Index 
 [[../Semester 7 Index|Semester 7 Index]]
 
 # Notes
