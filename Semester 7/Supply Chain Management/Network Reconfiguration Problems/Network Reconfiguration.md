@@ -37,5 +37,3 @@ h
 
 ### Network Diagram
 ![[Attachments/Network Reconfiguration 2023-07-13 11.08.34.excalidraw]]
-
-
