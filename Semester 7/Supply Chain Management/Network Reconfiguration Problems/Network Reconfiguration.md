@@ -23,3 +23,6 @@ The amount of space needed by a warehouse needs to account for its peak inventor
 [[Problem 1]] 
 
 [[Network Reconfiguration]]
+
+### Network Diagram
+![[Attachments/Network Reconfiguration 2023-07-13 11.08.34.excalidraw]]
