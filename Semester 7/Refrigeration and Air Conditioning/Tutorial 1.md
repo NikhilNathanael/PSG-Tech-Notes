@@ -16,7 +16,7 @@ In a standard vapor compression cycle using refrigerant 22 the evaporating tempe
   c. The heat rejected in the condenser
   d. The COP
 
-![[Attachments/Tutorial 1 Problem 2.1.excalidraw]]
+
 
 
 ##### Problem 3 
