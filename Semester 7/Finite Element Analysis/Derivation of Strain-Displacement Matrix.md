@@ -35,3 +35,6 @@ Apply this procedure to all elements in the matrix
 $$
 [K] = \frac {AE} {3l_e} \left[\matrix {7&1&-8\\1&7&-8\\-8&-8&16}\right]
 $$
+
+#### Problem 1
+![[Problem 1.excalidraw]]
