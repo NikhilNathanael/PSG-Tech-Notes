@@ -8,3 +8,4 @@ conflict-files-obsidian-git.md
 .obsidian/graph.json
 .obsidian/app.json
 .obsidian/appearance.json
+.obsidian/hotkeys.json
