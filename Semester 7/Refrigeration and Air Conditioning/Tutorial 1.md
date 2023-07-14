@@ -21,4 +21,3 @@ In a standard vapor compression cycle using refrigerant 22 the evaporating tempe
 
 ##### Problem 3 
 
-![[Attachments/Tutorial 1 Problem 3.excalidraw]]
