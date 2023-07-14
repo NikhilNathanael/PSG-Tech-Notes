@@ -10,51 +10,59 @@ tags: [excalidraw]
 # Text Elements
 %%
 # Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
-
-ZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHAL
-
-RY8RMpWdx8Q1TdIEfARcZgRmBShcZQUARm0ATm0Adho6IIR9BA4oZm4AbXAwUDBS
-
-6HhxdEIAM3IstNLIRhZ2LjRY5P4y5tZOADlOMW4ANmSADmTxgAZh2K7IQmYAEQyo
-
-BGJuKFIhBHmIEm4IMc0hZgBpADUAGQAlAH0eAFUAcQAVatflBAB1GAANV4NMrVQj
-
-4fAAZVgwUOklw2A0gSBAi2bAA1j8SOpuHMisjSGiEJCYNCJIIPEiIPi/JIOOE8u0
-
-9mw4HC1DBsVMpntrMoSahObiIJhuM5YrEkrExhMxgAWHjS6UAViVCT2bLQzh4PG0
-
-PAAzBNpWNhnqjWMpp0BcwUeiAMJsfBsUiHADEsQQrtdFM0cNRyipHGItvtjokW2s
-
-zGZgRyFIomMk3B4sR12liUwViZ4CWGPGSCQSyWGe0kCEIymk2LT2jGPDGCWlySmO
-
-oT0olCr2YXW2NiTY6ptbAt9wjgAEliPTUPkALp7Wq4LIj7gcIRgvZ+4i05hjkqNc
-
-qIbg63EAXz2mmE/oAosEsjkx5O9kI4MRcGsNu1hjXswqElNpQlE3siBwqKHBS9rY
-
-OiL6oNUBBhHsFCSGoQSLM+3BQfgYRFAe4BTnQuBwHAkJPpUW7QEW9QSI+pBAV0DC
-
-EAgFAAELegOQj+oGDrOtUnFcUCEDYCIkZQEOaz6JC+I2na7ESC6boyTxfGkAJQmZ
-
-IxYHMaxEnBugoYcOGuACXJ/HZIJwkAGKghCUKVFIcIIkg1HyYpwmiQS3yxti9mGT
-
-kSkiVahKWYcZIHB5ClGd5NzCKW65jjiZQOaFwkAPLMtgrLsvysWecZmQmZwUAmbO
-
-oJqqgMWQHFXmmbl4KEEYlQ8OlpWZd5rxYFAACCRDKG06DBNUUAGSF5WZARpBtQpb
-
-BwSEEGLsuRS8Y1wlnv6rVjRNuAQRAen4lQ1HMNg+Jgn82KZsmOpZh0+Y6rECrDA2
-
-O17Xa+AAJrcLWiQpgmPBZjw13JLE0rUUYbAGNwW5NAQOzxhhwWOZk4UsWudKHKuP
-
-G+iQVU1QuS74NDRnOeiSVQK0m4CvBpYddITAodBuwCnoOlRDkAAKgQbiIlSoTBJO
-
-hAlQhQAB7PU4yvP865xBYgyApMoTnDE40Aj6ED6iEBwyjcFM2rzJASscBwyuq2g6
-
-sFrieIhPo/NqxrxsYKEeuHCEYRDhwPNQFVtJIsiel9WgoNlFEiCaVd9XbngcCbNs
-
-NNy5A9u2xI/N6RAxtHlb2QQT7Wu4ZTEuR7xuFhzsmtRzbKuHHHjqJ4eUOzXAgRmM
-
-IzDPKQaPVZU034OASeQCCwSbphB5AA==
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7",
+	"elements": [],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 367,
+		"scrollY": 297.171875,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"currentStrokeOptions": {
+			"highlighter": false,
+			"constantPressure": false,
+			"hasOutline": false,
+			"outlineWidth": 1,
+			"options": {
+				"smoothing": 0.2,
+				"thinning": 0.6,
+				"streamline": 0.2,
+				"easing": "easeInOutSine",
+				"start": {
+					"taper": 150,
+					"cap": true,
+					"easing": "linear"
+				},
+				"end": {
+					"taper": 1,
+					"cap": true,
+					"easing": "linear"
+				}
+			}
+		},
+		"previousGridSize": null
+	},
+	"files": {}
+}
 ```
 %%
