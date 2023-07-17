@@ -1,5 +1,5 @@
 ---
-Subject : SupplyChainManagement
-Tags : problem
+Filetype : "Problem"
+Subject : "Supply Chain Management"
 ---
 

@@ -5,11 +5,6 @@ tags : Semester7 SemesterIndex Index
 
 # Subjects
 
-```dataview
-table Subject
-from "Semester 7"
-where filetype = "Index" & file.name != "Semester 7 Index"
-```
  [[Supply Chain Management/Supply Chain Management Index|Supply Chain Management]]
  [[Finite Element Analysis/Finite Element Analysis Index|Finite Element Analysis]]
  [[Intellectual Property Rights/Intellectual Property Rights Index|Intellectual Property Rights]]
