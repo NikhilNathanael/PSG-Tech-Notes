@@ -1,6 +1,6 @@
 ---
+Filetype : Index
 Subject : "Intellectual Property Rights"
-fileType : Index
 ---
 
 # Notes

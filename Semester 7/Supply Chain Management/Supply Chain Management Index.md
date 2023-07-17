@@ -1,5 +1,5 @@
 ---
-filetype : Index
+Filetype : Index
 Subject : "Supply Chain Management"
 ---
 

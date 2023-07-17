@@ -1,6 +1,6 @@
 ---
-subject : IntellectualPropertyRights
-type : ClassNotes
+Subject : "Intellectual Property Rights"
+Filetype : Notes
 ---
 
 # Patents

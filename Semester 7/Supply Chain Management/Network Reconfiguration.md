@@ -2,7 +2,7 @@
 Filetype : Notes
 Subject : "Supply Chain Management"
 ---
-### Warehousing Costs
+## Warehousing Costs
 - Handling Costs
 	- Labor and utility costs
 	- Proportional to annual flow through the warehouse

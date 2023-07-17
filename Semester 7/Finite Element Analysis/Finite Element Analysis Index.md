@@ -1,7 +1,6 @@
 ---
-filetype : Index
+Filetype : Index
 Subject : "Finite Element Analysis"
-tag : Index/Semester7/FiniteElementAnalysis
 ---
 
 # Notes
