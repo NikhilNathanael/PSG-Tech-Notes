@@ -1,5 +1,5 @@
 ---
-tags : Index, SupplyChainManagement
+tags : Index/Semester7/SupplyChainManagement
 ---
 
 # Notes

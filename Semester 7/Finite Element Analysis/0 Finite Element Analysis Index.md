@@ -1,6 +1,6 @@
 ---
 subject : FiniteElementAnalysis
-tag : Index
+tag : Index/Semester7/FiniteElementAnalysis
 ---
 
 # Notes
