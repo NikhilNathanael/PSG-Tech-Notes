@@ -1,4 +1,7 @@
-#SupplyChainManagement 
+---
+Filetype : Notes
+Subject : "Supply Chain Management"
+---
 ### Warehousing Costs
 - Handling Costs
 	- Labor and utility costs

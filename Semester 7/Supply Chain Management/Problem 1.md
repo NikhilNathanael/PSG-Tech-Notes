@@ -1,3 +1,7 @@
+---
+FileType : "Problem"
+Subject : "Suppply Chain Management"
+---
 
 Two Plants $P_1$ and $P_2$, two warehouses $W_1$, $W_2$ and three customers $C_1$, $C_2$, $C_3$ have the following price matrix.
 Find the best way to distribute the goods
