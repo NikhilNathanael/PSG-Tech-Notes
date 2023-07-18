@@ -13,28 +13,25 @@ A firm has three factories, namely A, E, and K. There are four major warehouses 
 | K         | 8         | 9   | 7   | 13  | 50     |
 | Demand    | 35        | 28  | 32  | 25  | 120    |
 
-```HTML
-<table>
-  <thead>
-    <tr>
-      <th><\th>
-      <th>Warehouse<\th>
-      <th><\th>
-      <th><\th>
-      <th><\th>
-      <th><\th>
-    <\tr>
-  <\thead>
-  <tbody>
-    <tr>
-      <td columnspan=4>L1 Name</td>
-      <td columnspan=2>L2 Name A</td>
-    </tr>
-  <\tbody>
-<\table>
-```
-
 Draw the network representation of this problem, formulate an LPP model to determine the least expensive shipping plan to fulfill the demands at the stores.
 
 ### Solution
-Minimize $Z = 6(AB) + 8(AC) + 8(AD) + 5(AM) + 5(EB) + $
+Minimize 
+  $$\begin{align*}
+  Z &= 6(AB) + 8(AC) + 8(AD) + 5(AM) \\
+    &+ 5(EB) + 11(EC) + 9(ED) + 7(EM) \\
+    &+ 8(KB) + 9(KC) + 7(KD) + 13(KM)
+  \end{align*}$$
+
+Subject  to
+  $$\begin{align*}
+  (AB) + (AC) + (AD) + (AM) &\le 30 \\
+  (EB) + (EC) + (ED) + (EM) &\le 40 \\
+  (KB) + (KC) + (KD) + (KM) &\le 50 \\
+  
+  (AB) + (EB) + (KB) &= 35 \\
+  (AC) + (EC) + (KC) &= 28 \\
+  (AD) + (ED) + (KD) &= 32 \\
+  (AM) + (EM) + (KM) &= 25 \\
+  \end{align*}$$
+
