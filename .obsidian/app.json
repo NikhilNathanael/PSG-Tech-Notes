@@ -37,8 +37,11 @@
     "editor:open-link-in-new-window",
     "editor:configure-toolbar"
   ],
-  "trashOption": "local",
+  "trashOption": "system",
   "tabSize": 2,
   "useTab": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "userIgnoreFilters": [
+    "\"/.*json/\""
+  ]
 }

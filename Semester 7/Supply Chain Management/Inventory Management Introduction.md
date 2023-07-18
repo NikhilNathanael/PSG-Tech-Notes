@@ -4,30 +4,19 @@ Subject : "Supply Chain Management"
 ---
 
 # Introduction to IM
-- Inventory is any asset held for future use or sale
-- Inventory management involves
-  - Planning
-  - Coordinating and controlling acquisition
-  - Storage
-  - Handling movement
-  - Moment, distribution and possible sales of 
-    - Raw materials
-    - Component parts
-    - Subassemblies
-    - Supplies and tools
-    - Replacement parts
-  and other assets that are needed to meet customer wants and needs
+[[../../Glossary/Inventory|Inventory]]
+- `=[[../../Glossary/Inventory|Inventory]].definition`
 
-![[../../Glossary/Inventory Management|Inventory Management]]
+![[../../Glossary/Inventory Management|Inventory Management]] 
 
-![[glossary/Something new|Something new]]
-Purpose of inventory management
-  - How many units to order (EOQ)
-  - When to order (ROP)
+
+![[../Semester 7 Index]]
 
 ## Terms
-**AIL** - Average Inventory Level 
-**EOQ** - Economic Order Quantity
-**ROP** - Reorder Point
-**SS** - Safety Stock
+**AIL** - [[Glossary/Average Inventory Level|Average Inventory Level]] : `=[[../../Glossary/Average Inventory Level|Average Inventory Level]].definition`
+**EOQ** - [[Glossary/Economic Order Quantity|Economic Order Quantity]] : `=[[../../Glossary/Economic Order Quantity|Economic Order Quantity]].definition`
+**ROP** - [[Glossary/Reorder Point|Reorder Point]] : `=[[../../Glossary/Reorder Point|Reorder Point]].definition`
+**SS** - [[Glossary/Safety Stock|Safety Stock]] : `=[[../../Glossary/Safety Stock|Safety Stock]].definition`
+
+
 

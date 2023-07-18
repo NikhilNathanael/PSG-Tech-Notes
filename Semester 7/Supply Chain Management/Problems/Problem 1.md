@@ -1,5 +1,5 @@
 ---
-FileType : "Problem"
+Filetype : "Problem"
 Topic : "Network Reconfiguration"
 Subject : "Suppply Chain Management"
 ---
