@@ -18,3 +18,14 @@ Subject : "Supply Chain Management"
     - Replacement parts
   and other assets that are needed to meet customer wants and needs
 
+What is Inventory?
+  - Stock of items kept to meet future demand
+
+Purpose of inventory management
+  - How many units to order (EOQ)
+  - When to order (ROP)
+
+## Terms
+AIL - Average Inventory Level 
+EOQ - Economic Order Quantity
+ROP - Reorder Point
