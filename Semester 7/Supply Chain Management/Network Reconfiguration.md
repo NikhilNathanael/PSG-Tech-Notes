@@ -24,9 +24,9 @@ The amount of space needed by a warehouse needs to account for its peak inventor
 	2. Exact Algorithms : Find optimal solutions
 - Simulation models 
 
-![[Problem 1]]
+![[Problems/Problem 1]]
 
-![[Problem 2]]
+![[Problems/Problem 2]]
 ### Network Diagram
 ![[Attachments/Formulating LPPs.excalidraw]]
 
@@ -56,4 +56,4 @@ w_1 + w_2 \ge 50000
   - $(W_1C_2) + (W_2C_2) \ge 100000$
   - $(W_1C_3) + (W_2C_3) \ge 50000$
 
-![[Problem 3]]
+![[Problems/Problem 3]]
