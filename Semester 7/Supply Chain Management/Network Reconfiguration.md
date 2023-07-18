@@ -20,7 +20,7 @@ The amount of space needed by a warehouse needs to account for its peak inventor
 ## Typical Network Design Model
 ### Solution Techniques
 - Mathematical optimization techniques
-	1. Heuristics :Find "Good" Solutions, not necessarily optimal
+	1. Heuristics : Find "Good" Solutions, not necessarily optimal
 	2. Exact Algorithms : Find optimal solutions
 - Simulation models 
 
