@@ -1,12 +1,6 @@
 *.swp
 conflict-files-obsidian-git.md
 .obsidian/**/*.json
-.obsidian/workspace.json
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/workspaces.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/hotkeys.json
+!.obsidian\community-plugins.json
+!.obsidian\core-plugins-migration.json
+!.obsidian\core-plugins.json
