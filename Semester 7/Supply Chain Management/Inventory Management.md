@@ -26,6 +26,8 @@ Purpose of inventory management
   - When to order (ROP)
 
 ## Terms
-AIL - Average Inventory Level 
-EOQ - Economic Order Quantity
-ROP - Reorder Point
+**AIL** - Average Inventory Level 
+**EOQ** - Economic Order Quantity
+**ROP** - Reorder Point
+**SS** - Safety Stock
+
