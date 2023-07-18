@@ -5,12 +5,6 @@ tags : Semester7 SemesterIndex Index
 
 # Subjects
 
-```
-table without id 
-link(file.name, Subject) as "Subject", 
-map(file.outlinks, (x) => (meta(x))) as "Notes" from outgoing([[]])
-```
-
 ```dataview 
 table without id link(file.name,Subject) as Subject, file.outlinks as Notes
 from outgoing([[]])
