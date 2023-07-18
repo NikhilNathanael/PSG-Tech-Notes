@@ -18,9 +18,9 @@ Subject : "Supply Chain Management"
     - Replacement parts
   and other assets that are needed to meet customer wants and needs
 
-What is Inventory?
-  - Stock of items kept to meet future demand
+![[../../Glossary/Inventory Management|Inventory Management]]
 
+![[glossary/Something new|Something new]]
 Purpose of inventory management
   - How many units to order (EOQ)
   - When to order (ROP)

@@ -9,4 +9,4 @@ Subject : "Supply Chain Management"
 [[Logistics Network]]
 [[Network Reconfiguration]]
 ## CO 2
-[[Inventory Management]]
+[[Inventory Management Introduction]]
