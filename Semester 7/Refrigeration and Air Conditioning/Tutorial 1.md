@@ -2,7 +2,6 @@
 Filetype : "Problem"
 Subject : "Refrigeration and Air Conditioning"
 ---
-#RefrigerationAndAirConditioning #Tutorial1 
 
 ##### Problem 2
 A Carnot refrigeration cycle absorbs heat at $-12\degree C$ and rejects heat at $40\degree C$ 
