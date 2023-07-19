@@ -9,7 +9,9 @@ Subject : "Finite Element Analysis"
 2. Loads are applied at joints
 3. Self weight is ignored
 
+![[Attachments/Trusses.jpg]]
 
+![[Attachments/Trusses 2.jpg]]
 $$
 q_1' = q_1 \cos {\theta} + q_2 \sin {\theta}
 $$
