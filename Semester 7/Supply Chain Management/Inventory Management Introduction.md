@@ -10,11 +10,7 @@ Subject : "Supply Chain Management"
 ![[../../Glossary/Inventory Management|Inventory Management]] 
 
 
-## Terms
-**AIL** - [[Glossary/Average Inventory Level|Average Inventory Level]] : `=[[../../Glossary/Average Inventory Level|Average Inventory Level]].definition`
-**EOQ** - [[Glossary/Economic Order Quantity|Economic Order Quantity]] : `=[[../../Glossary/Economic Order Quantity|Economic Order Quantity]].definition`
-**ROP** - [[Glossary/Reorder Point|Reorder Point]] : `=[[../../Glossary/Reorder Point|Reorder Point]].definition`
-**SS** - [[Glossary/Safety Stock|Safety Stock]] : `=[[../../Glossary/Safety Stock|Safety Stock]].definition`
+![[Inventory Management Terms]]
 
 
 

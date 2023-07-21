@@ -3,7 +3,6 @@ Filetype : "Derivation"
 Subject : "Finite Element Analysis"
 ---
 # Derivation of Strain Energy
-
 #### Assumptions
 1. All joints are pin Joints
 2. Loads are applied at joints
@@ -46,6 +45,7 @@ L =
 $$
 
 $L$ can be rewritten as 
+
 $$
 L = 
 \begin{bmatrix}
@@ -58,7 +58,7 @@ where
 
 $$
 \begin{align*}
-l &= \cos {\theta} = \dfrac {x_2-x_1} {l_2} \\
+l &= \sin {\theta} = \dfrac {y_2-y_1}{l_2} \\
 m &= \sin {\theta} = \dfrac {y_2-y_1} {l_2}
 \end{align*}
 $$
