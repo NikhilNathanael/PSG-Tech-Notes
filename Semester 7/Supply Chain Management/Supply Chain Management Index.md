@@ -11,3 +11,5 @@ Subject : "Supply Chain Management"
 ## CO 2
 - [[Inventory Management Introduction]]
 
+
+
