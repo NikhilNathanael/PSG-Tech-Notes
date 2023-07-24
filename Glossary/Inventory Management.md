@@ -12,15 +12,3 @@ Definition:: It is the tracking of inventory from the manufacturer to the wareho
 
 `=[[]].definition`
 
-- Inventory management involves
-  - Planning
-  - Coordinating and controlling acquisition
-  - Storage
-  - Handling movement
-  - Moment, distribution and possible sales of 
-    - Raw materials
-    - Component parts
-    - Subassemblies
-    - Supplies and tools
-    - Replacement parts
-  and other assets that are needed to meet customer wants and needs

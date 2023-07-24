@@ -5,20 +5,32 @@ Subject : "Supply Chain Management"
 # Introduction to IM
 ## Inventory
 - `=[[../../Glossary/Inventory|Inventory]].definition`
-![[../../Glossary/Inventory Management|Inventory Management]]
-![[Inventory Management Terms]]
 
-## Types of Problems
-### Based on number of orders
-- Single Period Inventory Model
-  - One time purchasing decision (Example: vendor selling t-shirts at a football game)
-  - Seeks to balance the costs of inventory overstock and understock
-- Multi-Period Inventory Model
-### Based on nature of demand
-- Deterministic Model
-- Probabilistic Model
-    - It incorporates demand variation and lead time uncertainty based on three possibilities
-    - It also includes [[../../Glossary/Safety Stock|Safety Stock]]
+## Inventory Management
+
+Definition : `=[[../../Glossary/Inventory Management|Inventory Management]].definition`
+
+It involves
+  - Planning
+  - Coordinating and controlling acquisition
+  - Storage
+  - Handling movement
+  - Moment, distribution and possible sales of 
+    - Raw materials
+    - Component parts
+    - Subassemblies
+    - Supplies and tools
+    - Replacement parts
+    - and other assets that are needed to meet customer wants and needs
+
+## Purpose of inventory management
+
+| Procurement                 | Production     |
+| --------------------------- | -------------- |
+| How Much (Order quantity)   | How much?      |
+| When to order (Order point) | When to start? |
+  
+
 ## Various Cost Element
 - Ordering costs ($C_o$)
   - Procuring based on purchase orders
@@ -29,6 +41,7 @@ Subject : "Supply Chain Management"
     - Rejection
     - Follow up
 - Stockout cost ($C_s$)
+  - It is the loss in profit caused by a lack of stock
   - Includes
     - Loss of customer
     - Loss of profit
@@ -36,48 +49,15 @@ Subject : "Supply Chain Management"
     - Additional capacity
     - Rescheduling
     - Increased freight
-- Unit cost ($C$)
 - Inventory holding (or) Carrying cost ($C_c$)
-  - Includes
+  - It is the cost of holding the product in storage
+    Includes
     - People
     - Space & power
     - Special requirement
     - Pilferage
     - Cost of capital
     - Obsolete Items
-
-## Purpose of inventory management
-
-| Procurement                 | Production     |
-| --------------------------- | -------------- |
-| How Much (Order quantity)   | How much?      |
-| When to order (Order point) | When to start? |
-
-## Aggregate control of inventories
-
-- Inventory turnover ratio
-- ABC classification
-- Risk Pooling
-
-## Forecasting
-- It is the process of predicting conditions in the future based on present conditions
-
-`=[[../../Glossary/Average Inventory Level|Average Inventory Level]].definition`
-
-### Seven steps in Forecasting
-- Determine the use of the forecast 
-- Select the items to be forecasted
-- Determine the time horizon of the forecast 
-- Select the forecasting model(s)
-- Gather the data
-- Make the forecast 
-- Validate and implement results and 
-
-### Planning Sequence
-
-![[Attachments/Aggregate Planning.excalidraw]]
-
-## Single Stage inventory control
-
-
+- Unit cost ($C$)
+  - It is the cost of one unit of product and it includes the ordering costs, the stockout costs and the inventory costs
 
