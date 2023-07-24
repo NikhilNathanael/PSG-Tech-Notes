@@ -1,6 +1,6 @@
 ---
 Filetype : Index
-Subject : 
+Subject: "Internet of Thing"
 ---
 
 ```dataview 
@@ -9,5 +9,4 @@ table from outgoing([[]])
 
 
 %%
-[[Network Protocols]]
 %%

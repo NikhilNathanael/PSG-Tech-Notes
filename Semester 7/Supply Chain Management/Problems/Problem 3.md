@@ -3,6 +3,8 @@ Filetype : "Problem"
 Topic : "Network Reconfiguration"
 Subject : "Suppply Chain Management"
 ---
+
+# Problem 3
 A firm has three factories, namely A, E, and K. There are four major warehouses situated at B, C, D and M. The average daily production at A, E, and K are 30, 40, and 50 units respectively. The average daily requirement of this product is given by this table at B, C, D, and M are 35, 28, 32, and 25 units respectively. The transportation costs per unit of product from each factory to each warehouse is given in the table below
 
 |           | Warehouse |     |     |     |        |

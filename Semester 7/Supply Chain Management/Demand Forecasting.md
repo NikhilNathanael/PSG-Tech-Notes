@@ -15,5 +15,3 @@ Subject: "Supply Chain Management"
 - Gather the data
 - Make the forecast 
 - Validate and implement results and 
-
-### Planning Sequence
