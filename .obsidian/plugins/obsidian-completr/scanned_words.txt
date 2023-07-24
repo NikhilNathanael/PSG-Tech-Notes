@@ -25,6 +25,7 @@ Seven
 Select
 Sequence
 Strategies
+Stage
 Element
 Energy
 EOQ

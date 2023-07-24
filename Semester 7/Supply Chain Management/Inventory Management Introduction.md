@@ -3,7 +3,7 @@ Filetype : Notes
 Subject : "Supply Chain Management"
 ---
 # Introduction to IM
-[[../../Glossary/Inventory|Inventory]]
+## Inventory
 - `=[[../../Glossary/Inventory|Inventory]].definition`
 ![[../../Glossary/Inventory Management|Inventory Management]]
 ![[Inventory Management Terms]]
@@ -48,7 +48,7 @@ Subject : "Supply Chain Management"
 
 ## Purpose of inventory management
 
-| **Procurement**             | **Production** |
+| Procurement                 | Production     |
 | --------------------------- | -------------- |
 | How Much (Order quantity)   | How much?      |
 | When to order (Order point) | When to start? |
