@@ -13,7 +13,7 @@ for (x of dv.current().file.outlinks) {
   for (z of dv.page(x).file.outlinks) {
     if (dv.page(z).file.frontmatter.Filetype == "Notes") notes.push(z);
   }
-  result.push([x,notes]);
+  result.push([dv.fileLink(x.path,false, dv.page(x).file.frontmatter.Subject),notes]);
 }
 dv.table (["Subject", "Notes"],result);
 ```

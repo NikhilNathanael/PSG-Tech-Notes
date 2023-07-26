@@ -1,6 +1,6 @@
 ---
 Filetype : Index
-Subject: "Internet of Thing"
+Subject: "Internet of Things"
 ---
 
 ```dataview 
@@ -9,4 +9,5 @@ table from outgoing([[]])
 
 
 %%
+[[Embedded Systems]]
 %%
