@@ -4,4 +4,3 @@ Subject: "Finite Element Analysis"
 ---
 
 Difference Between spar and beam elements
-
