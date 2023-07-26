@@ -18,6 +18,11 @@ for (x of dv.current().file.outlinks) {
 dv.table (["Subject", "Notes"],result);
 ```
 
+# TODO
+```dataview
+Task from "Semester 7"
+```
+
 %%
 [[Supply Chain Management/Supply Chain Management Index|Supply Chain Management Index]]
 [[Finite Element Analysis/Finite Element Analysis Index|Finite Element Analysis]]
