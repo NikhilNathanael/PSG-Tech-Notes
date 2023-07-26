@@ -24,5 +24,6 @@ dv.table (["Subject", "Notes"],result);
 [[Intellectual Property Rights/Intellectual Property Rights Index|Intellectual Property Rights]]
 [[Refrigeration and Air Conditioning/Refrigeration and Air Conditioning Index|Refrigeration and Air Conditioning]]
 [[Project Work/Project Work Index|Project Work Presentation]]
-[[Internet of Things/Internet of Things Index|Internet of Things Index]]
+[[Internet of Things/Internet of Things Index|Internet of Things]]
+[[Geometric Modelling/Geometric Modelling Index|Geometric Modelling]]
 %% 
