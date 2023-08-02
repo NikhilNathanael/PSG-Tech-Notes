@@ -15,4 +15,5 @@ ___
 - [[Types of Problems]]
 - [[Demand Forecasting]]
 - [[Multi-Order Inventory Management|Multi-Order Inventory Management]]
+- [[Unbalance in Supply and Demand]]
 ___
