@@ -74,6 +74,12 @@ Fk
 Fjt
 FmZeZ
 Fcd
+Finish
+Functional
+FMCG
+Fashion
+Food
+Flexible
 Derivation
 Definition
 Deterministic
@@ -135,6 +141,7 @@ Dz
 Dh
 DRu
 DJJ
+Drop
 Subject
 Strain
 Self
@@ -229,6 +236,12 @@ Sg
 SH
 SP
 SKT
+Summary
+Salt
+Strategy
+Some
+Semiconductors
+Shared
 Element
 Energy
 EOQ
@@ -295,6 +308,9 @@ EU
 Ei
 ErW
 EOF
+Explanation
+Efficient
+Effective
 Analysis
 Assumptions
 All
@@ -359,6 +375,10 @@ Al
 Ai
 AOnwM
 Az
+Aligning
+Accurate
+Agile
+Auto
 of
 or
 other
@@ -434,6 +454,7 @@ oj
 oCK
 ou
 oZs
+overstocking
 joints
 just
 jkky
@@ -557,6 +578,12 @@ atG
 aj
 aET
 aXw
+added
+always
+allocates
+appropriate
+actions
+according
 pin
 point
 possible
@@ -646,6 +673,10 @@ ps
 pS
 px
 pL
+pooling
+preview
+periodically
+placed
 Joints
 JY
 Jfv
@@ -770,6 +801,7 @@ Lj
 Lu
 Lur
 La
+Low
 weight
 where
 warehouses
@@ -838,6 +870,7 @@ wW
 wA
 wP
 wDy
+without
 is
 ignored
 in
@@ -912,6 +945,12 @@ iSi
 iNTi
 id
 iP
+involving
+into
+inn
+integration
+improve
+interval
 can
 costs
 controlling
@@ -1008,6 +1047,15 @@ cgd
 cA
 cCo
 cM
+composite
+cannot
+created
+converted
+classified
+cursor
+collaboration
+carry
+considering
 be
 balance
 based
@@ -1074,6 +1122,7 @@ bz
 biu
 bU
 bVkG
+both
 rewritten
 requirement
 ratio
@@ -1149,6 +1198,10 @@ rEVe
 rp
 rIF
 rIdc
+retailer
+reducing
+risk
+reorder
 GCS
 Glossary
 Gather
@@ -1215,6 +1268,7 @@ GS
 Gz
 GN
 GdS
+Goods
 Term
 Terms
 Types
@@ -1300,6 +1354,9 @@ TpF
 TZ
 Tj
 TCG
+Toys
+Telecom
+Time
 Inventory
 It
 Introduction
@@ -1356,6 +1413,8 @@ INE
 IT
 IcB
 IrlC
+Innovative
+Information
 held
 holding
 here
@@ -1490,6 +1549,8 @@ fr
 fN
 fv
 fP
+file
+fixed
 use
 understock
 uncertainty
@@ -1562,6 +1623,8 @@ ud
 uNu
 uMk
 uA
+understocking
+uncertainties
 sale
 supply
 sales
@@ -1658,6 +1721,9 @@ sid
 smk
 sI
 startxref
+servers
+system
+safety
 Notes
 Network
 Number
@@ -1789,6 +1855,8 @@ CU
 Ce
 CT
 CCl
+Commodities
+Computers
 Management
 Moment
 Model
@@ -1857,6 +1925,13 @@ MAqf
 MSp
 Mn
 MF
+Margin
+Mobile
+Most
+Music
+Mfg
+Metals
+Measuring
 to
 the
 tracking
@@ -1934,6 +2009,11 @@ tbN
 tDH
 tr
 tZk
+translation
+types
+title
+type
+take
 ROP
 Raw
 Replacement
@@ -1999,6 +2079,10 @@ RyC
 Rv
 Rf
 Ry
+Responsive
+Replenishment
+Reorder
+Review
 manufacturer
 minimize
 maximizing
@@ -2087,6 +2171,8 @@ mR
 mV
 my
 mN
+matrices
+multiplicative
 Planning
 Problems
 Period
@@ -2162,6 +2248,16 @@ PRE
 Pds
 PL
 Pq
+Products
+Product
+Profit
+Pop
+Power
+Produce
+Postponement
+Pull
+Push
+Precious
 Handling
 How
 Hierarchical
@@ -2218,6 +2314,8 @@ Hi
 Hg
 HDa
 Hl
+High
+Hedging
 distribution
 decision
 demand
@@ -2288,6 +2386,7 @@ dO
 dp
 dY
 dJ
+done
 needed
 needs
 number
@@ -2351,6 +2450,7 @@ nt
 nn
 niN
 njeY
+named
 level
 lead
 like
@@ -2475,6 +2575,7 @@ BT
 BEi
 Bc
 Bb
+Buffer
 One
 Ordering
 Obsolete
@@ -2532,6 +2633,7 @@ Of
 OLc
 Oj
 OnH
+Overstocking
 vendor
 variation
 vziyUzoW
@@ -2737,6 +2839,8 @@ VZL
 VSk
 VsS
 VT
+VMI
+Vendor
 etc
 everywhere
 excalidraw
@@ -2810,6 +2914,9 @@ eba
 eHh
 el
 eR
+extra
+equal
+end
 Unit
 Uniform
 US
@@ -2870,6 +2977,7 @@ USPY
 UmX
 UiC
 UA
+Unlike
 quantity
 quite
 quality

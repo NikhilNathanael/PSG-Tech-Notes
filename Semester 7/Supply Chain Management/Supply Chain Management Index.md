@@ -3,8 +3,12 @@ Filetype : Index
 Subject : "Supply Chain Management"
 ---
 
-# Notes
+```dataview 
+table summary from outgoing([[]])
+```
 
+%%
+# Notes
 ___
 ## CO 1 
 - [[Logistics Network]]
@@ -14,6 +18,8 @@ ___
 - [[Inventory Management Introduction]]
 - [[Types of Problems]]
 - [[Demand Forecasting]]
-- [[Multi-Order Inventory Management|Multi-Order Inventory Management]]
+- [[Multi-Order Inventory Management]]
 - [[Unbalance in Supply and Demand]]
+- [[Managing Demand Uncertainty]]
 ___
+%%

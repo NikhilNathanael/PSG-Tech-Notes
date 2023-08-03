@@ -4,7 +4,7 @@ Subject: "Geometric Modelling"
 ---
 
 ```dataview 
-table from outgoing([[]])
+table summary from outgoing([[]])
 ```
 
 
