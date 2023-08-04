@@ -1,5 +1,0 @@
----
-Subject : SupplyChainManagement
-Tags : problem
----
-

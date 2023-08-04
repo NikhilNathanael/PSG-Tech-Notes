@@ -1,8 +1,11 @@
 ---
-filetype : Index
+Filetype : Index
 Subject : "Finite Element Analysis"
-tag : Index/Semester7/FiniteElementAnalysis
 ---
 
 # Notes
+## CO 1
 [[Derivation of Strain-Displacement Matrix]]
+[[Truss Element]]
+## CO 2
+[[Beams]]

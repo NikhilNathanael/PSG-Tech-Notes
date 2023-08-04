@@ -1,10 +1,25 @@
 ---
-filetype : Index
+Filetype : Index
 Subject : "Supply Chain Management"
 ---
 
-# Notes
-```dataview
-list from "Semester 7/Supply Chain Management"
-where filetype = "Notes"
+```dataview 
+table summary from outgoing([[]])
 ```
+
+%%
+# Notes
+___
+## CO 1 
+- [[Logistics Network]]
+- [[Network Reconfiguration]]
+___
+## CO 2
+- [[Inventory Management Introduction]]
+- [[Types of Problems]]
+- [[Demand Forecasting]]
+- [[Multi-Order Inventory Management]]
+- [[Unbalance in Supply and Demand]]
+- [[Managing Demand Uncertainty]]
+___
+%%

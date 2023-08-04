@@ -2,7 +2,7 @@
 Filetype : Notes
 Subject : "Supply Chain Management"
 ---
-### Warehousing Costs
+## Warehousing Costs
 - Handling Costs
 	- Labor and utility costs
 	- Proportional to annual flow through the warehouse
@@ -16,17 +16,17 @@ Subject : "Supply Chain Management"
 Estimating warehouse costs is fairly easy while estimating the other tow costs value is quite difficult
 
 The amount of space needed by a warehouse needs to account for its peak inventory
-
+___
 ## Typical Network Design Model
 ### Solution Techniques
 - Mathematical optimization techniques
-	1. Heuristics :Find "Good" Solutions, not necessarily optimal
+	1. Heuristics : Find "Good" Solutions, not necessarily optimal
 	2. Exact Algorithms : Find optimal solutions
 - Simulation models 
 
-![[Problem 1]]
+![[Problems/Problem 1]]
 
-![[Problem 2]]
+# Problem 2
 ### Network Diagram
 ![[Attachments/Formulating LPPs.excalidraw]]
 
@@ -45,14 +45,4 @@ w_1 + w_2 \ge 50000
 \end {align*}$$
 
 
-# Steps to solve network problem as an LPP
-1. Draw the network diagram and all of its flows
-2. Describe the problem mathematically
-    - $0(P_1W_1) + 4(P_2W_1) + 3 (W_1C_1) + 4(W_1C_2) + 5 (W_1C_3) + 5(P_1W_2) + 2(P_2W_2) + 2(W_2C_1) + 1(W_2C_2) + 2(W_2C_3)$
--  Subject to 
-  - $(P_1W_1)+(P_1W_2) \le 200000$
-  - $(P_2W_1)+(P_2W_2) \le 60000$
-  - $(W_1C_1) + (W_2C_1) \ge 50000$
-  - $(W_1C_2) + (W_2C_2) \ge 100000$
-  - $(W_1C_3) + (W_2C_3) \ge 50000$
-  
+![[Problems/Problem 3]]
