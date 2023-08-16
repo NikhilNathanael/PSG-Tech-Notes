@@ -9,3 +9,6 @@ Subject : "Finite Element Analysis"
 [[Truss Element]]
 ## CO 2
 [[Beams]]
+
+# CO 3
+[[2D Elements]]

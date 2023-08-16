@@ -584,6 +584,10 @@ allocates
 appropriate
 actions
 according
+area
+axial
+accounted
+accurate
 pin
 point
 possible
@@ -802,6 +806,8 @@ Lu
 Lur
 La
 Low
+Limitations
+LST
 weight
 where
 warehouses
@@ -951,6 +957,7 @@ inn
 integration
 improve
 interval
+intensive
 can
 costs
 controlling
@@ -1056,6 +1063,10 @@ cursor
 collaboration
 carry
 considering
+concentrations
+constant
+corner
+computationally
 be
 balance
 based
@@ -1357,6 +1368,7 @@ TCG
 Toys
 Telecom
 Time
+Triangular
 Inventory
 It
 Introduction
@@ -1551,6 +1563,7 @@ fv
 fP
 file
 fixed
+forces
 use
 understock
 uncertainty
@@ -1724,6 +1737,11 @@ startxref
 servers
 system
 safety
+stress
+sudden
+shape
+stiffness
+strain
 Notes
 Network
 Number
@@ -1857,6 +1875,9 @@ CT
 CCl
 Commodities
 Computers
+Change
+Constant
+CST
 Management
 Moment
 Model
@@ -2014,6 +2035,7 @@ types
 title
 type
 take
+therefore
 ROP
 Raw
 Replacement
@@ -2173,6 +2195,7 @@ my
 mN
 matrices
 multiplicative
+midpoint
 Planning
 Problems
 Period
@@ -2258,6 +2281,7 @@ Postponement
 Pull
 Push
 Precious
+Poisson
 Handling
 How
 Hierarchical
@@ -2387,6 +2411,7 @@ dp
 dY
 dJ
 done
+dimensions
 needed
 needs
 number
@@ -2451,6 +2476,7 @@ nn
 niN
 njeY
 named
+noded
 level
 lead
 like
@@ -2517,6 +2543,7 @@ ll
 lD
 lZ
 lG
+linearly
 Based
 Back
 Basic
@@ -2917,6 +2944,9 @@ eR
 extra
 equal
 end
+effect
+entire
+edge
 Unit
 Uniform
 US
@@ -3247,6 +3277,7 @@ QwUL
 QP
 Qu
 QH
+Quadrilateral
 You
 Your
 YYYY
