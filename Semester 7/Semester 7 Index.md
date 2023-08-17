@@ -3,7 +3,6 @@ filetype : Index
 tags : Semester7 SemesterIndex Index
 ---
 
-
 # Subjects
 
 ```dataviewjs

@@ -142,6 +142,10 @@ Dh
 DRu
 DJJ
 Drop
+Dry
+Dew
+DSS
+Decision
 Subject
 Strain
 Self
@@ -242,6 +246,7 @@ Strategy
 Some
 Semiconductors
 Shared
+Specific
 Element
 Energy
 EOQ
@@ -588,6 +593,8 @@ area
 axial
 accounted
 accurate
+air
+about
 pin
 point
 possible
@@ -681,6 +688,8 @@ pooling
 preview
 periodically
 placed
+partial
+pressure
 Joints
 JY
 Jfv
@@ -877,6 +886,8 @@ wA
 wP
 wDy
 without
+water
+were
 is
 ignored
 in
@@ -958,6 +969,7 @@ integration
 improve
 interval
 intensive
+information
 can
 costs
 controlling
@@ -1067,6 +1079,9 @@ concentrations
 constant
 corner
 computationally
+cleanliness
+circulation
+comfort
 be
 balance
 based
@@ -1134,6 +1149,7 @@ biu
 bU
 bVkG
 both
+bulb
 rewritten
 requirement
 ratio
@@ -1213,6 +1229,7 @@ retailer
 reducing
 risk
 reorder
+relative
 GCS
 Glossary
 Gather
@@ -1369,6 +1386,7 @@ Toys
 Telecom
 Time
 Triangular
+Temperature
 Inventory
 It
 Introduction
@@ -1484,6 +1502,8 @@ hT
 hpe
 ho
 hF
+humidity
+human
 for
 future
 from
@@ -1742,6 +1762,11 @@ sudden
 shape
 stiffness
 strain
+subset
+submerged
+status
+should
+support
 Notes
 Network
 Number
@@ -1878,6 +1903,8 @@ Computers
 Change
 Constant
 CST
+Carrier
+Chart
 Management
 Moment
 Model
@@ -2036,6 +2063,9 @@ title
 type
 take
 therefore
+temperature
+thermometer
+throughout
 ROP
 Raw
 Replacement
@@ -2105,6 +2135,7 @@ Responsive
 Replenishment
 Reorder
 Review
+Relative
 manufacturer
 minimize
 maximizing
@@ -2196,6 +2227,10 @@ mN
 matrices
 multiplicative
 midpoint
+measured
+mass
+maximum
+managers
 Planning
 Problems
 Period
@@ -2282,6 +2317,7 @@ Pull
 Push
 Precious
 Poisson
+Point
 Handling
 How
 Hierarchical
@@ -2340,6 +2376,10 @@ HDa
 Hl
 High
 Hedging
+Heating
+HVAC
+Humidity
+Having
 distribution
 decision
 demand
@@ -2412,6 +2452,8 @@ dY
 dJ
 done
 dimensions
+deals
+dry
 needed
 needs
 number
@@ -2477,6 +2519,7 @@ niN
 njeY
 named
 noded
+normal
 level
 lead
 like
@@ -2603,6 +2646,7 @@ BEi
 Bc
 Bb
 Buffer
+Bulb
 One
 Ordering
 Obsolete
@@ -2733,6 +2777,8 @@ vI
 vYe
 vF
 vXIP
+vapour
+volume
 game
 goods
 given
@@ -2868,6 +2914,7 @@ VsS
 VT
 VMI
 Vendor
+Ventilation
 etc
 everywhere
 excalidraw
@@ -2947,6 +2994,7 @@ end
 effect
 entire
 edge
+effective
 Unit
 Uniform
 US
@@ -3115,6 +3163,7 @@ Wcu
 Wq
 WM
 WI
+Wet
 kept
 know
 kwV
