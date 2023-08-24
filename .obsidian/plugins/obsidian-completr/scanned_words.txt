@@ -142,6 +142,11 @@ Dh
 DRu
 DJJ
 Drop
+Dry
+Dew
+DSS
+Decision
+Ducts
 Subject
 Strain
 Self
@@ -242,6 +247,7 @@ Strategy
 Some
 Semiconductors
 Shared
+Specific
 Element
 Energy
 EOQ
@@ -311,6 +317,7 @@ EOF
 Explanation
 Efficient
 Effective
+Enables
 Analysis
 Assumptions
 All
@@ -379,6 +386,7 @@ Aligning
 Accurate
 Agile
 Auto
+Availability
 of
 or
 other
@@ -455,6 +463,7 @@ oCK
 ou
 oZs
 overstocking
+offering
 joints
 just
 jkky
@@ -588,6 +597,10 @@ area
 axial
 accounted
 accurate
+air
+about
+accounting
+amplified
 pin
 point
 possible
@@ -681,6 +694,9 @@ pooling
 preview
 periodically
 placed
+partial
+pressure
+promotions
 Joints
 JY
 Jfv
@@ -877,6 +893,8 @@ wA
 wP
 wDy
 without
+water
+were
 is
 ignored
 in
@@ -958,6 +976,7 @@ integration
 improve
 interval
 intensive
+information
 can
 costs
 controlling
@@ -1067,6 +1086,11 @@ concentrations
 constant
 corner
 computationally
+cleanliness
+circulation
+comfort
+coordination
+conditioned
 be
 balance
 based
@@ -1134,6 +1158,10 @@ biu
 bU
 bVkG
 both
+bulb
+better
+becomes
+bullwhip
 rewritten
 requirement
 ratio
@@ -1213,6 +1241,8 @@ retailer
 reducing
 risk
 reorder
+relative
+rooms
 GCS
 Glossary
 Gather
@@ -1369,6 +1399,7 @@ Toys
 Telecom
 Time
 Triangular
+Temperature
 Inventory
 It
 Introduction
@@ -1484,6 +1515,8 @@ hT
 hpe
 ho
 hF
+humidity
+human
 for
 future
 from
@@ -1742,6 +1775,19 @@ sudden
 shape
 stiffness
 strain
+subset
+submerged
+status
+should
+support
+suppliers
+systems
+strategies
+serve
+small
+stage
+supplier
+stages
 Notes
 Network
 Number
@@ -1878,6 +1924,8 @@ Computers
 Change
 Constant
 CST
+Carrier
+Chart
 Management
 Moment
 Model
@@ -1953,6 +2001,7 @@ Music
 Mfg
 Metals
 Measuring
+Medium
 to
 the
 tracking
@@ -2036,6 +2085,10 @@ title
 type
 take
 therefore
+temperature
+thermometer
+throughout
+their
 ROP
 Raw
 Replacement
@@ -2105,6 +2158,8 @@ Responsive
 Replenishment
 Reorder
 Review
+Relative
+Return
 manufacturer
 minimize
 maximizing
@@ -2196,6 +2251,10 @@ mN
 matrices
 multiplicative
 midpoint
+measured
+mass
+maximum
+managers
 Planning
 Problems
 Period
@@ -2282,6 +2341,8 @@ Pull
 Push
 Precious
 Poisson
+Point
+Pressure
 Handling
 How
 Hierarchical
@@ -2340,6 +2401,11 @@ HDa
 Hl
 High
 Hedging
+Heating
+HVAC
+Humidity
+Having
+Helps
 distribution
 decision
 demand
@@ -2412,6 +2478,10 @@ dY
 dJ
 done
 dimensions
+deals
+dry
+desired
+duct
 needed
 needs
 number
@@ -2477,6 +2547,7 @@ niN
 njeY
 named
 noded
+normal
 level
 lead
 like
@@ -2544,6 +2615,8 @@ lD
 lZ
 lG
 linearly
+locating
+large
 Based
 Back
 Basic
@@ -2603,6 +2676,8 @@ BEi
 Bc
 Bb
 Buffer
+Bulb
+Bullwhip
 One
 Ordering
 Obsolete
@@ -2733,6 +2808,8 @@ vI
 vYe
 vF
 vXIP
+vapour
+volume
 game
 goods
 given
@@ -2868,6 +2945,8 @@ VsS
 VT
 VMI
 Vendor
+Ventilation
+Velocity
 etc
 everywhere
 excalidraw
@@ -2947,6 +3026,8 @@ end
 effect
 entire
 edge
+effective
+extremely
 Unit
 Uniform
 US
@@ -3115,6 +3196,7 @@ Wcu
 Wq
 WM
 WI
+Wet
 kept
 know
 kwV

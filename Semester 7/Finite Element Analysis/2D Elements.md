@@ -41,3 +41,10 @@ $$
 This type of element is more computationally intensive but it is more accurate
 
 ## Quadrilateral element
+### Constant Strain Quadrilateral Element (CSQ)
+It contains 4 nodes, one at each corner
+Similar to the Constant strain triangular element, the strain is constant throughout a single edge
+### Linear Strain Quadrilateral Element (LSQ)
+It contains 8 nodes, one at each corner and one at the midpoint of each edge
+Similar to the linear strain triangular element, the strain increases linearly throughout an edge
+

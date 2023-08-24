@@ -22,4 +22,6 @@ ___
 - [[Unbalance in Supply and Demand]]
 - [[Managing Demand Uncertainty]]
 ___
+# CO 3
+[[Value of Information]]
 %%
