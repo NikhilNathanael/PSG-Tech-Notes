@@ -9,7 +9,9 @@ Subject: "Finite Element Analysis"
 
 # Types of elements in 2 dimensions
 ## Triangular Elements
+
 ### Constant Strain Triangular Element (CST) 
+![[Attachments/CST Element.jpg]]
 It is a three noded element in which there is displacement in the X-direction and the Y-direction
 The size of the stiffness matrix is 6x6
 There is a constant strain ($\epsilon$) through the entire element
@@ -26,6 +28,7 @@ $$
 \epsilon = c, \sigma = c
 $$
 ### Linear Strain Triangular Element (LST) 
+![[Attachments/LST Element.jpg]]
 There are 6 nodes in the LST element. One in each corner and one at the midpoint of each edge
 The size of the stiffness matrix is 12x12
 The strain varies linearly along a single edge

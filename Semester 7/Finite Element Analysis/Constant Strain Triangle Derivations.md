@@ -5,6 +5,7 @@ Subject: "Finite Element Analysis"
 
 
 # Introduction
+![[2D CST Element.jpg]]
 In three dimensions, there are 6 degrees of freedom for the stress acting on an element
 $$
 \begin{matrix}
