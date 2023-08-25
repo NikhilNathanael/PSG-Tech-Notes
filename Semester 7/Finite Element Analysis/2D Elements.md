@@ -48,3 +48,5 @@ Similar to the Constant strain triangular element, the strain is constant throug
 It contains 8 nodes, one at each corner and one at the midpoint of each edge
 Similar to the linear strain triangular element, the strain increases linearly throughout an edge
 
+
+

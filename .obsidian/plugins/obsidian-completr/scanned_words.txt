@@ -80,6 +80,8 @@ FMCG
 Fashion
 Food
 Flexible
+Framework
+Fluctuation
 Derivation
 Definition
 Deterministic
@@ -147,6 +149,8 @@ Dew
 DSS
 Decision
 Ducts
+Discount
+Data
 Subject
 Strain
 Self
@@ -248,6 +252,10 @@ Some
 Semiconductors
 Shared
 Specific
+System
+Shortage
+Sharing
+Similar
 Element
 Energy
 EOQ
@@ -318,6 +326,10 @@ Explanation
 Efficient
 Effective
 Enables
+EDLP
+Everyday
+EDI
+Echelon
 Analysis
 Assumptions
 All
@@ -387,6 +399,8 @@ Accurate
 Agile
 Auto
 Availability
+Activity
+Allocation
 of
 or
 other
@@ -601,6 +615,8 @@ air
 about
 accounting
 amplified
+alignment
+appointments
 pin
 point
 possible
@@ -697,6 +713,10 @@ placed
 partial
 pressure
 promotions
+pricing
+promising
+prices
+part
 Joints
 JY
 Jfv
@@ -824,6 +844,8 @@ La
 Low
 Limitations
 LST
+Lt
+LSQ
 weight
 where
 warehouses
@@ -895,6 +917,7 @@ wDy
 without
 water
 were
+wait
 is
 ignored
 in
@@ -977,6 +1000,8 @@ improve
 interval
 intensive
 information
+initiatives
+increases
 can
 costs
 controlling
@@ -1091,6 +1116,9 @@ circulation
 comfort
 coordination
 conditioned
+consumers
+comparison
+costing
 be
 balance
 based
@@ -1162,6 +1190,7 @@ bulb
 better
 becomes
 bullwhip
+believed
 rewritten
 requirement
 ratio
@@ -1243,6 +1272,8 @@ risk
 reorder
 relative
 rooms
+reduction
+replenishment
 GCS
 Glossary
 Gather
@@ -1310,6 +1341,7 @@ Gz
 GN
 GdS
 Goods
+Gaming
 Term
 Terms
 Types
@@ -1597,6 +1629,7 @@ fP
 file
 fixed
 forces
+frequent
 use
 understock
 uncertainty
@@ -1671,6 +1704,7 @@ uMk
 uA
 understocking
 uncertainties
+update
 sale
 supply
 sales
@@ -1788,6 +1822,11 @@ small
 stage
 supplier
 stages
+shopping
+saves
+store
+shopper
+sharing
 Notes
 Network
 Number
@@ -1926,6 +1965,15 @@ Constant
 CST
 Carrier
 Chart
+Centralized
+Causes
+Channel
+CAO
+Consumer
+Commerce
+Continuous
+Capacity
+CSQ
 Management
 Moment
 Model
@@ -2002,6 +2050,8 @@ Mfg
 Metals
 Measuring
 Medium
+Methods
+More
 to
 the
 tracking
@@ -2089,6 +2139,8 @@ temperature
 thermometer
 throughout
 their
+truck
+triangular
 ROP
 Raw
 Replacement
@@ -2160,6 +2212,8 @@ Reorder
 Review
 Relative
 Return
+Reduce
+Reduction
 manufacturer
 minimize
 maximizing
@@ -2255,6 +2309,7 @@ measured
 mass
 maximum
 managers
+mark
 Planning
 Problems
 Period
@@ -2343,6 +2398,8 @@ Precious
 Poisson
 Point
 Pressure
+POS
+Price
 Handling
 How
 Hierarchical
@@ -2482,6 +2539,10 @@ deals
 dry
 desired
 duct
+during
+dynamics
+direct
+deliver
 needed
 needs
 number
@@ -2548,6 +2609,7 @@ njeY
 named
 noded
 normal
+need
 level
 lead
 like
@@ -2617,6 +2679,8 @@ lG
 linearly
 locating
 large
+loyalty
+load
 Based
 Back
 Basic
@@ -2678,6 +2742,7 @@ Bb
 Buffer
 Bulb
 Bullwhip
+Batching
 One
 Ordering
 Obsolete
@@ -2736,6 +2801,7 @@ OLc
 Oj
 OnH
 Overstocking
+Operational
 vendor
 variation
 vziyUzoW
@@ -2876,6 +2942,7 @@ gSn
 gFv
 gDo
 gV
+generate
 Various
 VIEW
 Validate
@@ -3028,6 +3095,10 @@ entire
 edge
 effective
 extremely
+events
+effort
+expense
+efficiency
 Unit
 Uniform
 US
@@ -3089,6 +3160,8 @@ UmX
 UiC
 UA
 Unlike
+Understanding
+Using
 quantity
 quite
 quality
