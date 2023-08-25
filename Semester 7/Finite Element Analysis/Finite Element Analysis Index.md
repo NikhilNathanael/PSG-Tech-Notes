@@ -12,4 +12,4 @@ Subject : "Finite Element Analysis"
 
 # CO 3
 [[2D Elements]]
-[[Plane Stress]]
+[[Constant Strain Triangle Derivations]]
