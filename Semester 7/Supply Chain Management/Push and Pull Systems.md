@@ -8,9 +8,6 @@ In a pull-based supply chain, production and distribution are demand driven so t
 In a pure pull system, the firm does not hold any inventory and only responds to specific order.
 This is enabled by fast information flow mechanisms that transfer information about customer demand (e.g. point of sale data) to the various supply chain participants. 
 
-# Push-Pull Supply Chains
-It is a hybrid supply chain in which the push strategy is used for the parts which have low uncertainty and pull strategy is used for the parts with high uncertainty
-
 # Selecting the best SC Strategy
 - Higher demand uncertainty suggests Pull
 - Higher importance of economies of scale suggest push
@@ -19,3 +16,25 @@ It is a hybrid supply chain in which the push strategy is used for the parts whi
   - Demand is stable
   - Transportation cost reduction is critical 
   - Pull would not be appropriate here
+
+# Characteristics and skills
+| **Push System**         | **Pull System**       |
+| ------------------- | ----------------- |
+| Low uncertainty     | High uncertainty  |
+| Long lead times     | Short Cycle Times |
+| Cost Minimization   | Service Level     |
+| Resource Allocation | Responsiveness    |
+
+# Push-Pull Supply Chains
+It is a hybrid supply chain in which the push strategy is used for the parts which have low uncertainty and pull strategy is used for the parts with high uncertainty
+
+The push section requires
+- Supply chain planning
+- Long term strategies
+The Pull section requires
+- Order fulfillment processes
+- Customer relationship management
+Buffer inventory at the boundaries
+- The output of the tactical planning process
+- The input to the order fulfillment process
+

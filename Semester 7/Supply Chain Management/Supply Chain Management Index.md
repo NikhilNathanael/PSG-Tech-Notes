@@ -25,4 +25,5 @@ ___
 # CO 3
 [[Value of Information]]
 [[Push and Pull Systems]]
+[[Distribution Strategies]]
 %%
