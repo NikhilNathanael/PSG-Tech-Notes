@@ -1,6 +1,6 @@
 ---
-Filetype : Index
-Subject : "Supply Chain Management"
+Filetype: "Notes"
+Subject: "Supply Chain Management"
 ---
 
 ```dataview 
@@ -26,4 +26,8 @@ ___
 [[Value of Information]]
 [[Push and Pull Systems]]
 [[Distribution Strategies]]
+[[Impact of the Internet on Supply Chain Strategies]]
+___
+# CO4
+[[Strategic Alliances]]
 %%

@@ -5,3 +5,6 @@ Subject : "Intellectual Property Rights"
 
 # Notes
 [[Types of Intellectual Property]]
+
+[[Pantents]]
+
