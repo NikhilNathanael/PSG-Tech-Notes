@@ -26,4 +26,21 @@ Usefulness to industrial application
 ## Allowable subject matter
 Process, machine, article of manufacture, and composition of matter
 
+# What is eligible for Patent?
+Improvements to Technology (Technical field)
+Improvement to Functioning of a system (ex. Computer)
+Meaningful limitations beyond... linking the use of an abstract idea to a particular technological application
 
+# Documents required for Patent filing
+## Background details
+- What is already known
+- Objective of you invention (needs) 
+## Detailed description
+- Explain how the invention will be used by a person skilled in that art
+
+## Claims
+- Scope of the legal protection
+- Define the essential features (boundaries)
+
+## Drawings 
+- Better understanding of the invention

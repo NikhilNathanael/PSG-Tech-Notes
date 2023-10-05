@@ -23,11 +23,13 @@ ___
 - [[Managing Demand Uncertainty]]
 ___
 # CO 3
-[[Value of Information]]
-[[Push and Pull Systems]]
-[[Distribution Strategies]]
-[[Impact of the Internet on Supply Chain Strategies]]
+- [[Value of Information]]
+- [[Push and Pull Systems]]
+- [[Distribution Strategies]]
+- [[Impact of the Internet on Supply Chain Strategies]]
 ___
 # CO4
-[[Strategic Alliances]]
+- [[Strategic Alliances]]
+- [[Categories and Types of Strategic Alliances]]
+- [[Procurement and Outsourcing]]
 %%
