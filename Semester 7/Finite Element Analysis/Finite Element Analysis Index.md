@@ -13,3 +13,6 @@ Subject : "Finite Element Analysis"
 # CO 3
 [[2D Elements]]
 [[Constant Strain Triangle Derivations]]
+
+# CO 5
+[[Temperature Variations]]
