@@ -127,6 +127,7 @@ Fourth
 Fifth
 File
 Four
+Facilities
 Derivation
 Definition
 Deterministic
@@ -371,6 +372,7 @@ Split
 Same
 Sophisticated
 SRM
+Sourcing
 Element
 Energy
 EOQ
@@ -469,6 +471,9 @@ Expansion
 Equity
 Economies
 Essential
+Edge
+Edges
+Engine
 Analysis
 Assumptions
 All
@@ -896,6 +901,8 @@ angle
 analysis
 assemble
 achieved
+allows
+allow
 pin
 point
 possible
@@ -1037,6 +1044,8 @@ produce
 platforms
 private
 provide
+packaging
+plant
 Joints
 JY
 Jfv
@@ -1434,6 +1443,7 @@ installed
 idealized
 insulated
 issues
+indicators
 can
 costs
 controlling
@@ -1599,6 +1609,7 @@ could
 copyright
 convection
 contact
+coding
 be
 balance
 based
@@ -2014,6 +2025,7 @@ Three
 Third
 Taiwanese
 Titles
+Tools
 Inventory
 It
 Introduction
@@ -2117,6 +2129,8 @@ Inter
 Industry
 Ideas
 Integration
+Identifying
+Input
 held
 holding
 here
@@ -2202,6 +2216,8 @@ holdings
 handles
 higher
 heat
+hierarchical
+hence
 for
 future
 from
@@ -2321,6 +2337,8 @@ filed
 fig
 free
 flux
+facilities
+facility
 use
 understock
 uncertainty
@@ -2420,6 +2438,8 @@ uXu
 understanding
 underlying
 utilized
+understand
+utilization
 sale
 supply
 sales
@@ -2592,6 +2612,10 @@ secondary
 sold
 sound
 shown
+seasonal
+scenarios
+sizing
+specifies
 Notes
 Network
 Number
@@ -2668,6 +2692,8 @@ Networks
 Nike
 Not
 Names
+Node
+Nodes
 Chain
 Coordinating
 Component
@@ -2803,6 +2829,9 @@ Cinematography
 Concepts
 Creates
 CRM
+Connections
+Collection
+Color
 Management
 Moment
 Model
@@ -2903,6 +2932,7 @@ Marketing
 Mover
 Musical
 Mostly
+Mapping
 to
 the
 tracking
@@ -3016,6 +3046,8 @@ transactions
 technolgy
 transferred
 targeted
+thus
+terminology
 ROP
 Raw
 Replacement
@@ -3117,6 +3149,7 @@ Role
 Retailer
 RSP
 Rotations
+Related
 manufacturer
 minimize
 maximizing
@@ -3246,6 +3279,7 @@ maintains
 managerial
 musical
 manuscripts
+match
 Planning
 Problems
 Period
@@ -3365,6 +3399,8 @@ Performances
 Phrases
 Provides
 Partners
+Positioning
+Points
 Handling
 How
 Hierarchical
@@ -3570,6 +3606,7 @@ designed
 dramatic
 designs
 dependent
+decisions
 needed
 needs
 number
@@ -3914,6 +3951,8 @@ Obviousness
 Objective
 Outsourcing
 Other
+Output
+Optimization
 vendor
 variation
 vziyUzoW
@@ -4000,6 +4039,7 @@ various
 vendors
 visibility
 venture
+visualize
 game
 goods
 given
@@ -4464,6 +4504,7 @@ qD
 qfHI
 qz
 qM
+quantifies
 When
 Why
 Warehousing
@@ -4541,6 +4582,7 @@ WeK
 Wu
 Who
 With
+Warehouses
 kept
 know
 kwV
@@ -4615,6 +4657,7 @@ ks
 key
 knowledge
 known
+keep
 years
 your
 year
