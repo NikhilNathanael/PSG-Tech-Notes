@@ -33,9 +33,7 @@ $$
 A_1 v_1 &= A_2 v_2
 \end{align}
 $$
-and for a split in the duct
 
-- [ ] Finish Major and Minor Losses Equations
 ## Losses in Duct
 ### Major Losses (Friction)
 
