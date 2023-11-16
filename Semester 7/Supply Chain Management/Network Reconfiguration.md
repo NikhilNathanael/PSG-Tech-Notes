@@ -2,21 +2,6 @@
 Filetype : Notes
 Subject : "Supply Chain Management"
 ---
-## Warehousing Costs
-- Handling Costs
-	- Labor and utility costs
-	- Proportional to annual flow through the warehouse
-- Fixed Costs
-	- All cost components not proportional to the amount of flow
-	- Typically proportional to warehouse size (capacity) but in an non-linear way
-- Storage Costs
-	- Inventory holding costs
-	- Proportional to average positive inventory levels
-
-Estimating warehouse costs is fairly easy while estimating the other tow costs value is quite difficult
-
-The amount of space needed by a warehouse needs to account for its peak inventory
-___
 ## Typical Network Design Model
 ### Solution Techniques
 - Mathematical optimization techniques
@@ -46,3 +31,15 @@ w_1 + w_2 \ge 50000
 
 
 ![[Problems/Problem 3]]
+
+## Simulation Models
+- Useful for a given design and a micro-level analysis. Examine
+  - Individual Ordering pettern.
+  - Specific inventory policies
+  - Inventory movements inside the warehouse
+- **Not and Optimization Model**
+- Can only consider very few alternate models
+
+## Which model to use?
+- Use Mathematical Optimization for static analysis
+- Use a 2-step approach when dynamics in a system needs to be analysed

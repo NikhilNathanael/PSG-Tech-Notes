@@ -88,8 +88,7 @@ Three hierarchical Steps
 ## Objective
 - To design or reconfigure the logistics networks, so as to minimize annual system wide costs, such as production costs, purchasing costs, subject to a variety of service level requirements
 
-## Steps to perform Network Design
-
+# Steps to perform Network Design
  - Data Collection
  - Data Aggregation
  - Transportation Rate
@@ -107,8 +106,160 @@ Three hierarchical Steps
   - All available products and their annual demands
   - Transportation costs
   - Warehousing costs
-
 ## Data Aggregation
 - All these sources create too much data to be handled easily
 
 - Customers located in close proximity to each other can be aggregated using a **grid network**, or **Clustering Techniques**
+- All customers within a single cell or a single cluster are replaced by a single customer located at the geographic center of the cell
+- Each cell is called a customer zone
+
+### Impact of Aggregating customers
+The customer zone balances 
+- Loss of accuracy due to over aggregation 
+- needless compexity
+What affects the efficiency of the aggregation?
+- The number of aggregated point, i.e. the number of different zones
+- The distribution of customers in each zone
+
+### Why Aggregate
+- Reduces the cost of obtaining and processing data
+- Changes the form in which data is available to a more palatable form
+- Decreases the size of the resultant model
+- Increases the accuracy of the forecast demand
+
+### Recommended approach
+- Use at least 300 aggregated points per zone
+- Make sure each zone has a similar amount of demand
+- Place the aggregated point at the center of the zone
+
+### Product Grouping
+- Companies may have hundreds or thousands of individual products for sale
+- Collecting data for all the products may be impractical
+
+#### Strategy for Product Aggregation
+- Place all SKUs into a source-group
+  - A source group is a group of SKI's all sourced from the same place
+- Within each of the source groups, aggregate the SKUs by similar logistical characteristics
+  - Weight
+  - Volume
+  - Holding Cost
+
+
+## Transportation Rates
+- Constructing an effective network design model is to estimate transportation costs
+- Distinguish between transportation cost associated between internal fleets and external fleets
+- Estimation of internal costs includes
+  - Annual Cost/truck
+  - Annual mileage/truck
+  - Annual amount delivered
+  - Truck's effective capacity
+- Incorporating transportation costs for an external fleet is more complex and is separated into two categories
+  - Full Truck Load
+    - Each truck carries one shipment
+    - The journey is reserved
+  - Less than Full Truck Load
+    - Each truck carries multiple items
+    - Each shipment is arranged on a pallet and placed in the truck
+
+## Mileage Estimation
+- Estimate $\text{lon}_a$ and $\text{lat}_a$, the longitude and lattitude of point a (and similarly for point b) 
+- Distance between a and b
+  - For short distances
+    - $D_{ab} = 69 \sqrt((\text{lon}_a-\text{lon}_b)^2 + (\text{lat}_a - \text{lat}_b)^2)$
+  - For Long Distances
+- Circuity Factor, $\rho$ 
+  - Equations underestimate the actual road distance
+  - Multiply $D_{ab}$ by $\rho$ 
+  - Typical Values
+    - Metropolitan areas
+      - $\rho = 1.3$ 
+    - Continental United States
+      - $\rho = 1.14$ 
+## Warehouse Costs
+- Handling Costs
+  - Labour and utility Costs
+  - Proportional to Annual Flow through the warehouse
+- Fixed Costs
+  - All cost components not proportional to the amount of flow
+  - Typically proportional to warehouse size, but is non-linear
+- Storage Costs
+  - Inventory holding costs 
+  - Proportional to average positive inventory levels
+
+## Warehouse Capacities
+- Estimating Warehouse cost is fairly easy while estimating the other two cost values is quite difficult
+- **The amount of space a warehouse needs $\propto$ Peak Inventory** 
+- Inventory Turnover Ratio
+  - $IT = \dfrac{\text{Annual Sales}}{\text{Avereage Inventory Level}}$
+- We typically multiply the average storage level by a factor (> 1) 
+  - This factor depends on the specific application and allows users to assess the amount of space available in the warehouse more accurately
+  - A typical value for the factor is **3**. 
+
+## Potential Warehouse Locations
+- Geographical and Infrastructure conditions
+- Natural resources and labor availability
+- Local industry and Tax regulations
+- Public Interest
+- Not many will qualify based on all the above conditions
+
+## Service Level Requirements
+- Specify a maximum distance between each customer and the warehouse serving them
+- A proportion of customers whose distance to their assigned warehouse is no more than a given distance
+
+### Impact of Increasing the number of warehouses
+- Improve service level due to reduction of average service time to customers
+- Increase inventory costs due to a larger safety stock
+- Increase overhead and set-up costs
+- Reduce transportation costs in a certain range
+  - Reduce outbound transportation costs
+  - Increase inbound transportation costs
+
+### Industry benchmarks
+- High Margin Products
+  - Low number of warehouses
+  - Service not important
+  - Inventory expensive relative to transportation
+  - Example: Pharmaceuticals
+- Low Margin Products
+  - High number of warehouses
+  - Service quality very important
+  - Outbound Transportation costs expensive compared to inbound
+  - Example: Chemical Supplies
+
+## Future Demand 
+- Strategic Decisions have to be valid for 3-5 year sin advance
+- Consider scenario approach and net present values to factor in expected future demand over planning horizon
+
+## Model Validation
+- Reconstruct the existing network configuration using the model and collected data
+- Compare the output of the model to existing data
+- Compare to the company's accounting information
+  - Often the best way to identify errors in the data, problematic assumptions, modeling flaw. 
+- Make local or small changes in the network configuration to see how the system estimate impact on costs and service levels
+  - Positing a variety of what-if questions?
+    - Does the model make sense?
+    - Are the data consistent?
+    - Can the model results be fully explained?
+    - Did you perform sensitivity analysis?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
