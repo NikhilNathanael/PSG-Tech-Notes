@@ -91,21 +91,28 @@ Three hierarchical Steps
 
 ## Steps to perform Network Design
 
-1. Data Collection
-2. Data Aggregation
-3. Transportation Rate
-4. Mileage Estimation
-5. Warehouse Costs
-6. Warehouse Capacities
-7. Potential Warehouse Locations
-8. Service Level Requirements
-9. Future Demand
-10. Model and Data Validation
+ - Data Collection
+ - Data Aggregation
+ - Transportation Rate
+ - Mileage Estimation
+ - Warehouse Costs
+ - Warehouse Capacities
+ - Potential Warehouse Locations
+ - Service Level Requirements
+ - Future Demand
+ - Model and Data Validation
 
+## Data Collection
+- A typical network configuration involves a large amount of data
+  - Locations of customers, retailers, warehouses, factories, suppliers etc.
+  - All available products and their annual demands
+  - Transportation costs
+  - Warehousing costs
 
+## Data Aggregation
+- All these sources create too much data to be handled easily
 
-
-
+- Customers located in close proximity to each other can be aggregated using a **grid network**, or **Clustering Techniques**
 
 
 
