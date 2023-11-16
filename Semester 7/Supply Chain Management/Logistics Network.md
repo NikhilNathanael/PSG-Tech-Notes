@@ -1,7 +1,6 @@
 ---
-Filetype: Notes
-Subject: Supply Chain Management
-Summary: Introduction to logistics networks, network management and network planning
+Filetype : Notes
+Subject : "Supply Chain Management"
 ---
 
 # Network Planning
@@ -113,7 +112,3 @@ Three hierarchical Steps
 - All these sources create too much data to be handled easily
 
 - Customers located in close proximity to each other can be aggregated using a **grid network**, or **Clustering Techniques**
-
-
-
-

@@ -1,6 +1,6 @@
 ---
-Filetype: "Notes"
-Subject: "Supply Chain Management"
+Filetype : Index
+Subject : "Supply Chain Management"
 ---
 
 ```dataview 
@@ -23,17 +23,7 @@ ___
 - [[Managing Demand Uncertainty]]
 ___
 # CO 3
-- [[Value of Information]]
-- [[Push and Pull Systems]]
-- [[Distribution Strategies]]
-- [[Impact of the Internet on Supply Chain Strategies]]
-___
-# CO4
-- [[Strategic Alliances]]
-- [[Categories and Types of Strategic Alliances]]
-- [[Procurement and Outsourcing]]
----
-# CO5
-[[Supply Chain IT]]
-[[Mass Customization]]
+[[Value of Information]]
+[[Push and Pull Systems]]
+[[Distribution Strategies]]
 %%
