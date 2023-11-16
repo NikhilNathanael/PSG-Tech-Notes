@@ -1,7 +1,6 @@
 ---
-Filetype: "Notes"
-Subject: "Supply Chain Management"
-Subject: "Suppply Chain Management"
+Filetype: Notes
+Subject: Supply Chain Management
 ---
 
 The expectation was that increasing the use of the internet would solve a lot of the business problems

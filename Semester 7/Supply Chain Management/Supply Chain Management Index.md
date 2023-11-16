@@ -32,4 +32,8 @@ ___
 - [[Strategic Alliances]]
 - [[Categories and Types of Strategic Alliances]]
 - [[Procurement and Outsourcing]]
+---
+# CO5
+[[Supply Chain IT]]
+[[Mass Customization]]
 %%

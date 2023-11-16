@@ -12,4 +12,5 @@ table summary from outgoing([[]])
 [[Introduction]]
 [[2D Transformations]]
 [[Representations of curves]]
+[[Removal Of Hidden Lines]]
 %%
