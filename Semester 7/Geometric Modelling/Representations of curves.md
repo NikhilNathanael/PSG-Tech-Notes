@@ -3,13 +3,14 @@ Filetype: "Notes"
 Subject: "Geometric Modelling"
 ---
 
-# Types
-## Non-Parametric
-The points that make up the curve are directly given
-It is not used in any Software
-### Explicit
-The points used directly
-### Implicit
+# Types of curves
+  - **Non-Parametric**
+    - The points that make up the curve are directly given
+    - It is not used in any Software
+    - **Explicit**
+      - Can be written as an equation in which the dependent coordinate is expressed explicitly in terms of the independent coordinates
+    - **Implicit**
+      - Cannot be written as a dependent coordinate in terms of the independent coordinates
 ## Parametric
 ### Analytic
 They are curves that are represented by a standard function such as
@@ -20,13 +21,19 @@ They are curves that are represented by a standard function such as
 ### Synthetic
 They are curves which are defined by a set of control points
 #### Interpolant Curve
-The are curves which pass through all control points
+The are synthetic curves which pass through a subset of the control points
 ##### Hermite Cubic Spline
 #### Approximant Curve
-They are curves which do not pass through all control points
+They are curves which do not always pass through any control points
+##### Hermite Spline
+##### 
 ##### Bezier Spline
 ##### B-Spline/NURBS
 Non-Uniform Rational B-Spline
+
+# Bezier Spline
+
+
 
 # Continuity of Curves
 ## Position Continuity ($C_0$)

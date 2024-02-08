@@ -17,13 +17,13 @@ ___
 ## CO 2
 - [[Inventory Management Introduction]]
 - [[Types of Problems]]
-- [[Demand Forecasting]]
+- [[Forecasting]]
 - [[Multi-Order Inventory Management]]
 - [[Unbalance in Supply and Demand]]
 - [[Managing Demand Uncertainty]]
 ___
 # CO 3
 [[Value of Information]]
-[[Push and Pull Systems]]
+[[Information and supply chain technology]]
 [[Distribution Strategies]]
 %%

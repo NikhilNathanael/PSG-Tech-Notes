@@ -2,7 +2,7 @@
 Filetype: "Notes"
 Subject: "Supply Chain Management"
 ---
-
+# Infor
 # Pull Based Supply Chain
 In a pull-based supply chain, production and distribution are demand driven so that they are coordinated with true customer demand rather than with forecast demand.
 In a pure pull system, the firm does not hold any inventory and only responds to specific order.
