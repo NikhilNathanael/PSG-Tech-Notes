@@ -427,6 +427,7 @@ Sinusoidal
 Sodium
 Stand
 Sapphire
+Surface
 Element
 Energy
 EOQ
@@ -649,6 +650,7 @@ Approaches
 Assuming
 Abrasives
 Abrasive
+At
 of
 or
 other
@@ -1024,6 +1026,8 @@ abrasive
 approximate
 amplitude
 abrasives
+atoms
+atom
 pin
 point
 possible
@@ -1193,6 +1197,7 @@ packing
 particle
 plate
 particles
+plasma
 Joints
 JY
 Jfv
@@ -1633,6 +1638,8 @@ incoming
 intermediate
 irregular
 influences
+ionized
+ions
 can
 costs
 controlling
@@ -1835,6 +1842,8 @@ carbide
 copper
 carrier
 cutting
+consisting
+cut
 be
 balance
 based
@@ -2303,6 +2312,7 @@ Technological
 Training
 These
 Throwing
+Taper
 Inventory
 It
 Introduction
@@ -2525,6 +2535,8 @@ hole
 hammering
 hard
 hours
+heated
+heating
 for
 future
 from
@@ -2664,6 +2676,7 @@ frequently
 follows
 feed
 fine
+finish
 use
 understock
 uncertainty
@@ -2984,6 +2997,9 @@ slurry
 sharp
 suspended
 spherical
+separate
+substance
+speed
 Notes
 Network
 Number
@@ -3223,6 +3239,8 @@ Challenge
 Centralize
 CPFR
 Composition
+Composed
+Cutting
 Management
 Moment
 Model
@@ -3341,6 +3359,7 @@ Machining
 Mass
 Mixing
 MRR
+Max
 to
 the
 tracking
@@ -3477,6 +3496,8 @@ towards
 tungsten
 thickness
 throwing
+temperatures
+tolerances
 ROP
 Raw
 Replacement
@@ -3745,6 +3766,9 @@ mean
 microns
 mechanism
 machining
+molecules
+main
+micrometer
 Planning
 Problems
 Period
@@ -3886,6 +3910,8 @@ Promotions
 Placing
 Provide
 Parameters
+Plasma
+Performance
 Handling
 How
 Hierarchical
@@ -3973,6 +3999,7 @@ Hidden
 Horizons
 Human
 Hiring
+HAZ
 distribution
 decision
 demand
@@ -4119,6 +4146,8 @@ destinations
 diameter
 density
 deburring
+dissociate
+dissociated
 needed
 needs
 number
@@ -4501,6 +4530,7 @@ Obsolescence
 Overtime
 Orders
 Outputs
+Optimum
 vendor
 variation
 vziyUzoW
@@ -4703,6 +4733,7 @@ gap
 grain
 gas
 glass
+glowing
 Various
 VIEW
 Validate
@@ -4949,6 +4980,7 @@ expect
 ease
 energy
 excellent
+electrons
 Unit
 Uniform
 US
@@ -5201,6 +5233,7 @@ WIP
 Way
 Workforce
 WC
+Water
 kept
 know
 kwV
